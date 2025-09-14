@@ -1,0 +1,8356 @@
+
+Lot number	
+Auction date	
+Auction	
+Year	
+Chassis ID	
+Engine CC	
+Equipment	
+Mileage	
+Condition	
+Start	
+Sold for	
+Average
+price	
+		
+ 80025 
+13.09.2025
+[15:43]
+ARAI Oyama VT	
+2020 NHP170G
+IAT  1490 cc
+AC
+OTHER FF 74
+112000 km
+▲ 0
+  0¥
+ 270 000¥
+
+sold
+ 270 000¥
+		
+ 9049 
+13.09.2025
+[15:42]
+JU Gifu	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+BEIGE FF 74
+18000 km
+▲ ***
+ 280 000¥
+ 637 000¥
+
+not sold
+ 765 000¥
+		
+ 306 
+13.09.2025
+[13:35]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+BROWN FF 74
+27000 km
+▲ RA
+ 500 000¥
+1 298 000¥
+
+sold
+1 470 000¥
+		
+ 60108 
+13.09.2025
+[13:15]
+JU Gifu	
+2021 NHP170G
+Hybrid Gｸｴ Low
+IAT  1500 cc
+AAC
+YELLOW 2 FF 74
+24000 km
+▲ 3.5
+ 780 000¥
+1 435 000¥
+
+not sold
+1 530 000¥
+		
+ 12415 
+13.09.2025
+[12:59]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G Safety -ED2
+IAT  1500 cc
+AAC
+WHITE FF 74
+50000 km
+▲ 4
+ 780 000¥
+1 872 000¥
+
+sold
+1 775 000¥
+		
+ 12408 
+13.09.2025
+[12:55]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+RED FF 74
+56000 km
+▲ 3
+ 100 000¥
+1 273 000¥
+
+sold
+1 154 000¥
+		
+ 78 
+13.09.2025
+[12:06]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+WHITE FF 74
+84000 km
+▲ 4
+ 280 000¥
+1 252 000¥
+
+sold
+1 117 000¥
+		
+ 12205 
+13.09.2025
+[11:28]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+BLACK FF 74
+70000 km
+▲ 3.5
+ 100 000¥
+1 003 000¥
+
+sold
+1 190 000¥
+		
+ 173 
+13.09.2025
+[10:50]
+TAA Hyogo	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+GREEN FF 74
+12000 km
+▲ R
+ 600 000¥
+1 296 000¥
+
+sold
+1 224 000¥
+		
+ 8217 
+13.09.2025
+[10:45]
+JU Gifu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+AT  1500 cc
+AAC
+SILVER FF 74
+58000 km
+▲ R
+ 400 000¥
+ 515 000¥
+
+not sold
+ 857 000¥
+		
+ 1229 
+12.09.2025
+[13:00]
+LAA Okayama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DA  1500 cc
+AAC
+BEIGE FF 74
+161000 km
+▲ R
+ 180 000¥
+ 612 000¥
+
+sold
+ 552 000¥
+		
+ 30 
+12.09.2025
+[11:48]
+KCAA Yamaguchi	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+PAT  1500 cc
+AAC
+BLUE FF 74
+104000 km
+▲ 4
+ 300 000¥
+ 708 000¥
+
+not sold
+ 955 000¥
+		
+ 5103 
+11.09.2025
+[14:13]
+JU Aichi	
+2020 NHP170G
+Hybrid G
+AT  1500 cc
+AAC
+WHITE FF 74
+89000 km
+▲ 4.5
+ 690 000¥
+1 272 000¥
+
+not sold
+1 159 000¥
+		
+ 2052 
+11.09.2025
+[13:51]
+TAA Chubu	
+2021 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+RED FF 74
+40000 km
+▲ 3.5
+ 300 000¥
+1 395 000¥
+
+sold
+1 455 000¥
+		
+ 2027 
+11.09.2025
+[13:41]
+TAA Chubu	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+BLACK FF 74
+49000 km
+▲ 3.5
+ 700 000¥
+1 396 000¥
+
+sold
+1 442 000¥
+		
+ 707 
+11.09.2025
+[13:17]
+ARAI Oyama	
+2020 NHP170G
+ﾌｧﾝ Base G Safety - Edition
+IAT  1500 cc
+AAC
+RED FF 74
+220000 km
+▲ 3.5
+ 30 000¥
+ 492 000¥
+
+sold
+ 511 000¥
+		
+ 602 
+11.09.2025
+[13:11]
+KCAA Fukuoka	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base Gｾ-ﾌﾃ
+DAT  1500 cc
+AAC
+SILVER FF 74
+158000 km
+▲ 3.5
+ 380 000¥
+ 548 000¥
+
+not sold
+ 511 000¥
+		
+ 2078 
+11.09.2025
+[12:30]
+TAA Kanto	
+2021 NHP170G
+HVﾌｧﾝ Base G Safety -ED2
+IAT  1500 cc
+AAC
+BLUE FF 74
+10000 km
+▲ 4.5
+ 900 000¥
+1 896 000¥
+
+sold
+1 782 000¥
+		
+ 4084 
+11.09.2025
+[12:15]
+JU Aichi	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+DAT  1500 cc
+AAC
+BEIGE FF 74
+94000 km
+▲ R
+ 95 000¥
+ 614 000¥
+
+not sold
+ 932 000¥
+		
+ 72198 
+11.09.2025
+[11:56]
+TAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+WHITE FF 74
+15000 km
+▲ 5
+ 600 000¥
+1 647 000¥
+
+sold
+1 647 000¥
+
+
+			
+ 70166 
+11.09.2025
+[11:42]
+TAA Tohoku	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+WHITE FF 74
+73000 km
+▲ RA
+ 250 000¥
+ 700 000¥
+
+sold
+ 979 000¥
+		
+ 82074 
+11.09.2025
+[11:40]
+TAA Kanto	
+2021 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+RED FF 74
+48000 km
+▲ 2
+ 50 000¥
+1 025 000¥
+
+sold
+1 025 000¥
+		
+ 70078 
+11.09.2025
+[11:18]
+TAA Tohoku	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+SILVER FF 74
+92000 km
+▲ 3.5
+ 380 000¥
+ 836 000¥
+
+sold
+ 873 000¥
+		
+ 20024 
+11.09.2025
+[11:15]
+TAA Kanto	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+FF 74
+18000 km
+▲ R
+ 300 000¥
+1 365 000¥
+
+sold
+1 224 000¥
+		
+ 72046 
+11.09.2025
+[11:06]
+TAA Kanto	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+BLUE FF 74
+53000 km
+▲ 4.5
+ 500 000¥
+1 619 000¥
+
+sold
+1 587 000¥
+		
+ 80027 
+11.09.2025
+[11:02]
+TAA Kanto	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+BLUE FF 74
+40000 km
+▲ RA
+ 150 000¥
+1 287 000¥
+
+sold
+1 287 000¥
+		
+ 22087 
+11.09.2025
+[10:33]
+TAA Kanto	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+40000 km
+▲ 4
+ 280 000¥
+1 843 000¥
+
+sold
+1 550 000¥
+		
+ 22019 
+11.09.2025
+[10:07]
+TAA Kanto	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+34000 km
+▲ 4
+ 880 000¥
+1 969 000¥
+
+sold
+1 775 000¥
+		
+ 14095 
+10.09.2025
+[15:00]
+LUM Tokyo Nyusatsu	
+2020 NHP170G
+2WD
+AT  1500 cc
+AC
+OTHER FF 74
+136000 km
+▲ 4
+  0¥
+ 868 000¥
+
+sold
+ 683 000¥
+		
+ 50042 
+10.09.2025
+[15:00]
+MIRIVE Saitama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+SILVER FF 74
+164000 km
+▲ R
+ 50 000¥
+ 551 000¥
+
+sold
+ 552 000¥
+		
+ 80068 
+10.09.2025
+[13:59]
+MIRIVE Saitama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+AT  1500 cc
+ﾌﾒｲ
+BEIGE FF 74
+73000 km
+▲ X
+  0¥
+ 291 000¥
+
+sold
+ 291 000¥
+		
+ 38 
+10.09.2025
+[11:43]
+KCAA Minami Kyushu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DAT  1500 cc
+AC
+SILVER FF 74
+253000 km
+▲ 3.5
+ 200 000¥
+ 641 000¥
+
+not sold
+ 511 000¥
+		
+ 40017 
+09.09.2025
+[15:15]
+CAA Tokyo	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BLACK FF 74
+60000 km
+▲ 3.5
+ 280 000¥
+1 183 000¥
+
+sold
+1 190 000¥
+		
+ 2156 
+09.09.2025
+[14:35]
+TAA Kinki	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+BEIGE FF 74
+78000 km
+▲ 4.5
+ 600 000¥
+1 440 000¥
+
+sold
+1 159 000¥
+		
+ 76059 
+09.09.2025
+[14:24]
+TAA Kinki	
+2021 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+WHITE FF 74
+69000 km
+▲ 3.5
+ 400 000¥
+1 258 000¥
+
+sold
+1 274 000¥
+		
+ 5039 
+09.09.2025
+[14:20]
+CAA Gifu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+AT  1500 cc
+AAC
+SILVER FF 74
+59000 km
+▲ R
+ 400 000¥
+ 730 000¥
+
+not sold
+ 857 000¥
+		
+ 2188 
+09.09.2025
+[13:13]
+TAA Hiroshima	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+BLACK FF 74
+62000 km
+▲ 3
+ 300 000¥
+ 960 000¥
+
+sold
+1 154 000¥
+		
+ 2163 
+09.09.2025
+[10:59]
+TAA Kyushu	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+34000 km
+▲ 4
+ 780 000¥
+1 983 000¥
+
+sold
+1 775 000¥
+		
+ 2075 
+09.09.2025
+[10:27]
+TAA Kyushu	
+2020 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+SILVER FF 74
+50000 km
+▲ 4
+ 430 000¥
+1 390 000¥
+
+sold
+1 550 000¥
+		
+ 2057 
+09.09.2025
+[10:20]
+TAA Kyushu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+SILVER FF 74
+31000 km
+▲ 4.5
+ 380 000¥
+1 346 000¥
+
+sold
+1 731 000¥
+
+			
+ 70033 
+09.09.2025
+[10:08]
+CAA Gifu	
+2021 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+FF 74
+48000 km
+▲ 99
+ 10 000¥
+ 682 000¥
+
+sold
+ 682 000¥
+		
+ 33004 
+09.09.2025
+[10:00]
+CAA Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+WHITE FF 74
+167000 km
+▲ 3.5
+ 150 000¥
+ 552 000¥
+
+sold
+ 511 000¥
+		
+ 343 
+08.09.2025
+[14:40]
+JU Tokyo	
+2020 NHP170G
+Hybrid G Safety Edition
+AT  1500 cc
+AC
+WHITE FF 74
+121000 km
+▲ 3.5
+ 230 000¥
+ 866 000¥
+
+sold
+ 867 000¥
+		
+ 36040 
+08.09.2025
+[13:26]
+AUCNET	
+2021 NHP170G
+G ｸｴ Low
+IAT  1500 cc
+AC
+BLUE FF 74
+64000 km
+▲ R
+ 300 000¥
+1 010 000¥
+
+sold
+ 912 000¥
+		
+ 3618 
+08.09.2025
+AUCNET	
+2021 NHP170G
+GKERO HYBRID
+IAT  1500 cc
+AC
+FF 74
+64000 km
+▲ R
+ 300 000¥
+  0¥
+
+removed
+ 912 000¥
+		
+ 9050 
+06.09.2025
+[16:03]
+JU Gifu	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+BEIGE FF 74
+18000 km
+▲ ***
+ 280 000¥
+ 724 000¥
+
+not sold
+ 765 000¥
+		
+ 457 
+06.09.2025
+[14:41]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AC
+WHITE FF 74
+82000 km
+▲ 4
+ 500 000¥
+1 373 000¥
+
+sold
+1 117 000¥
+		
+ 12588 
+06.09.2025
+[14:13]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+22000 km
+▲ 4
+ 400 000¥
+2 002 000¥
+
+sold
+1 749 000¥
+		
+ 60048 
+06.09.2025
+[12:30]
+JU Gifu	
+2021 NHP170G
+Hybrid Gｸｴ Low
+IAT  1500 cc
+AAC
+YELLOW 2 FF 74
+24000 km
+▲ 3.5
+ 780 000¥
+1 180 000¥
+
+not sold
+1 530 000¥
+		
+ 8527 
+06.09.2025
+[11:49]
+JU Gifu	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety Edition TSS
+DAT  1500 cc
+AAC
+BLACK FF 74
+53000 km
+▲ 4
+ 600 000¥
+1 345 000¥
+
+sold
+1 399 000¥
+		
+ 2033 
+06.09.2025
+[11:41]
+TAA Hyogo	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+BLACK FF 74
+40000 km
+▲ 4
+ 650 000¥
+1 679 000¥
+
+sold
+1 550 000¥
+		
+ 2011 
+06.09.2025
+[11:33]
+TAA Hyogo	
+2021 NHP170G
+HVﾌｧﾝ Base G Safety -ED2
+IAT  1500 cc
+AAC
+BEIGE FF 74
+44000 km
+▲ 3.5
+ 800 000¥
+1 322 000¥
+
+sold
+1 455 000¥
+		
+ 301 
+06.09.2025
+[11:27]
+TAA Hyogo	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+GREEN FF 74
+12000 km
+▲ R
+ 700 000¥
+1 135 000¥
+
+not sold
+1 224 000¥
+		
+ 72052 
+06.09.2025
+[10:27]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+BLACK FF 74
+69000 km
+▲ 3.5
+ 350 000¥
+1 370 000¥
+
+sold
+1 274 000¥
+		
+ 20048 
+06.09.2025
+[10:14]
+ARAI Oyama VT	
+2020 NHP170G
+Hybrid G Safety EDITION
+AT  1500 cc
+AAC
+WHITE FF 74
+79000 km
+▲ RA
+ 380 000¥
+1 230 000¥
+
+sold
+1 230 000¥
+		
+ 9003 
+06.09.2025
+[10:00]
+KCAA Minami Kyushu 2nd	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DAT  1500 cc
+AC
+SILVER FF 74
+253000 km
+▲ 3.5
+ 200 000¥
+ 683 000¥
+
+not sold
+ 511 000¥
+		
+ 4206 
+05.09.2025
+[15:16]
+JU Tochigi	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base Gｸﾞﾗﾝﾊﾟ
+IA  1500 cc
+AAC
+BEIGE FF 74
+41000 km
+▲ 4
+ 780 000¥
+1 623 000¥
+
+not sold
+1 775 000¥
+		
+ 7064 
+05.09.2025
+[13:58]
+LAA Okayama	
+2020 NHP170G
+Hybrid G Safety
+DA  1500 cc
+AAC
+WHITE FF 74
+86000 km
+▲ 4
+ 790 000¥
+1 360 000¥
+
+sold
+1 117 000¥
+		
+ 1018 
+05.09.2025
+[12:11]
+LAA Okayama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DA  1500 cc
+AAC
+BEIGE FF 74
+161000 km
+▲ R
+ 180 000¥
+ 603 000¥
+
+not sold
+ 552 000¥
+		
+ 3513 
+05.09.2025
+[11:57]
+JU Chiba	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G Safety
+AT  1500 cc
+AC
+SILVER FF 74
+59000 km
+▲ 4.5
+ 650 000¥
+1 313 000¥
+
+not sold
+1 507 000¥
+
+
+			
+ 40 
+05.09.2025
+[10:41]
+KCAA Yamaguchi	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+PAT  1500 cc
+AAC
+BLUE FF 74
+104000 km
+▲ 4
+ 300 000¥
+ 750 000¥
+
+not sold
+ 955 000¥
+		
+ 2171 
+04.09.2025
+[13:13]
+TAA Chubu	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+BLACK FF 74
+46000 km
+▲ 3.5
+ 600 000¥
+1 533 000¥
+
+sold
+1 442 000¥
+		
+ 3031 
+04.09.2025
+[12:53]
+JU Toyama	
+2020 NHP170G
+Hybrid Gｸｴ Low
+IAT  1500 cc
+AAC
+BROWN FF 74
+167000 km
+▲ R
+ 180 000¥
+ 705 000¥
+
+sold
+ 552 000¥
+		
+ 568 
+04.09.2025
+[12:38]
+KCAA Fukuoka	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base Gｾ-ﾌﾃ
+DAT  1500 cc
+AAC
+SILVER FF 74
+158000 km
+▲ 3.5
+ 380 000¥
+ 548 000¥
+
+not sold
+ 511 000¥
+		
+ 175 
+04.09.2025
+[12:21]
+SUZUKI AA Hamamatsu	
+2020 NHP170G
+ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+TWO-TONE FF 74
+91000 km
+▲ R
+ 250 000¥
+ 358 000¥
+
+not sold
+ 726 000¥
+		
+ 5257 
+04.09.2025
+[11:45]
+TAA Kanto	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+BROWN FF 74
+30000 km
+▲ 3.5
+ 880 000¥
+1 435 000¥
+
+sold
+1 455 000¥
+		
+ 71015 
+04.09.2025
+[11:06]
+JU Aichi	
+2020 NHP170G
+H)ﾌｧﾝ Base G Safety ED
+DAT  1500 cc
+AAC
+BLACK FF 74
+54000 km
+▲ 3.5
+ 480 000¥
+1 200 000¥
+
+sold
+1 190 000¥
+		
+ 5017 
+04.09.2025
+[10:31]
+TAA Kanto	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+WINE FF 74
+54000 km
+▲ 3.5
+ 600 000¥
+1 323 000¥
+
+sold
+1 274 000¥
+		
+ 82047 
+04.09.2025
+[10:30]
+TAA Chubu	
+2021 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+70000 km
+▲ 4
+ 650 000¥
+1 589 000¥
+
+sold
+1 429 000¥
+		
+ 113 
+03.09.2025
+[10:48]
+KCAA Minami Kyushu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DAT  1500 cc
+AC
+SILVER FF 74
+253000 km
+▲ 3.5
+ 200 000¥
+ 695 000¥
+
+not sold
+ 511 000¥
+		
+ 36039 
+03.09.2025
+[10:13]
+CAA Chubu	
+2020 NHP170G
+Hybrid G ｸｴ Low
+AT  1500 cc
+AAC
+RED FF 74
+43000 km
+▲ 4.5
+1 040 000¥
+1 670 000¥
+
+sold
+1 731 000¥
+		
+ 36038 
+03.09.2025
+[10:13]
+CAA Chubu	
+2020 NHP170G
+Hybrid G ｸｴ Low
+AT  1500 cc
+AAC
+GREEN 2 FF 74
+54000 km
+▲ 4.5
+ 940 000¥
+1 620 000¥
+
+sold
+1 507 000¥
+		
+ 4188 
+02.09.2025
+[15:47]
+CAA Gifu	
+2021 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+35000 km
+▲ 3.5
+ 980 000¥
+1 583 000¥
+
+sold
+1 455 000¥
+		
+ 4037 
+02.09.2025
+[14:38]
+CAA Gifu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+AT  1500 cc
+AAC
+SILVER FF 74
+59000 km
+▲ R
+ 400 000¥
+ 601 000¥
+
+not sold
+ 857 000¥
+		
+ 76008 
+02.09.2025
+[13:53]
+TAA Kinki	
+2021 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+WHITE FF 74
+61000 km
+▲ 4
+ 200 000¥
+1 280 000¥
+
+sold
+1 429 000¥
+		
+ 280 
+02.09.2025
+[12:50]
+TAA Kyushu	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+BLUE FF 74
+88000 km
+▲ 4
+ 180 000¥
+1 041 000¥
+
+sold
+1 117 000¥
+		
+ 2150 
+02.09.2025
+[12:32]
+TAA Hiroshima	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+BLACK FF 74
+62000 km
+▲ 3
+ 350 000¥
+ 944 000¥
+
+not sold
+1 154 000¥
+		
+ 196 
+02.09.2025
+[12:25]
+TAA Kyushu	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+RED TWO-TONE FF 74
+142000 km
+▲ 4
+ 300 000¥
+ 801 000¥
+
+sold
+ 683 000¥
+		
+ 1514 
+02.09.2025
+[12:03]
+JU Nagano	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+AT  1500 cc
+AAC
+BLACK FF 74
+33000 km
+▲ 4
+ 680 000¥
+1 622 000¥
+
+sold
+1 550 000¥
+		
+ 30067 
+02.09.2025
+[12:03]
+CAA Gifu	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+84000 km
+▲ 4
+ 500 000¥
+1 220 000¥
+
+sold
+1 117 000¥
+
+			
+ 18 
+02.09.2025
+[11:32]
+TAA Kyushu	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+RED FF 74
+82000 km
+▲ R
+ 580 000¥
+1 021 000¥
+
+sold
+ 932 000¥
+		
+ 36 
+02.09.2025
+[11:21]
+TAA Shikoku	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+56000 km
+▲ 3.5
+ 900 000¥
+1 455 000¥
+
+sold
+1 274 000¥
+		
+ 225 
+02.09.2025
+[11:07]
+TAA Kinki	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+AC
+GREEN FF 74
+93000 km
+▲ 4
+ 200 000¥
+1 235 000¥
+
+sold
+1 201 000¥
+		
+ 36090 
+02.09.2025
+[10:35]
+CAA Tokyo	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+RED FF 74
+32000 km
+▲ 4
+ 900 000¥
+1 527 000¥
+
+sold
+1 550 000¥
+		
+ 2021 
+02.09.2025
+[10:07]
+TAA Kyushu	
+2020 NHP170G
+Hybrid X
+IAT  1500 cc
+AC
+WHITE PEARL FF 74
+27000 km
+▲ 3.5
+ 500 000¥
+1 472 000¥
+
+sold
+1 442 000¥
+		
+ 33008 
+02.09.2025
+[10:02]
+CAA Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+WHITE FF 74
+167000 km
+▲ 3.5
+ 150 000¥
+ 528 000¥
+
+not sold
+ 511 000¥
+		
+ 8221 
+01.09.2025
+[13:41]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+AT  1500 cc
+AC
+SILVER FF 74
+128000 km
+▲ R
+ 180 000¥
+ 504 000¥
+
+not sold
+ 540 000¥
+		
+ 8213 
+01.09.2025
+[13:39]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G Safety Edition
+AT  1500 cc
+AC
+RED FF 74
+20000 km
+▲ 4.5
+ 880 000¥
+1 516 000¥
+
+sold
+1 707 000¥
+		
+ 10061 
+01.09.2025
+[11:08]
+Honda AA Tokyo	
+2021 NHP170G
+Hybrid G Safety Edition
+DAT  1500 cc
+AAC
+BLACK FF 74
+35000 km
+▲ 3
+ 930 000¥
+1 767 000¥
+
+sold
+1 767 000¥
+		
+ 9064 
+30.08.2025
+[15:59]
+JU Gifu	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+BEIGE FF 74
+18000 km
+▲ ***
+ 280 000¥
+ 631 000¥
+
+not sold
+ 765 000¥
+		
+ 50054 
+30.08.2025
+[12:24]
+TAA Hyogo	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+86000 km
+▲ 3.5
+ 300 000¥
+1 206 000¥
+
+sold
+ 873 000¥
+		
+ 12315 
+30.08.2025
+[12:16]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+BLACK FF 74
+34000 km
+▲ 3.5
+ 300 000¥
+1 635 000¥
+
+sold
+1 442 000¥
+		
+ 50 
+30.08.2025
+[12:10]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+53000 km
+▲ R
+ 280 000¥
+1 102 000¥
+
+sold
+ 857 000¥
+		
+ 8439 
+30.08.2025
+[11:27]
+JU Gifu	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+TEA FF 74
+62000 km
+▲ R
+ 200 000¥
+ 820 000¥
+
+sold
+ 912 000¥
+		
+ 12124 
+30.08.2025
+[10:52]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+48000 km
+▲ 3.5
+ 680 000¥
+1 763 000¥
+
+sold
+1 442 000¥
+		
+ 72067 
+30.08.2025
+[10:36]
+TAA Yokohama	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+9000 km
+▲ 4.5
+ 380 000¥
+1 817 000¥
+
+sold
+1 707 000¥
+		
+ 12072 
+30.08.2025
+[10:30]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AC
+BLACK FF 74
+63000 km
+▲ 4
+ 350 000¥
+1 466 000¥
+
+sold
+1 399 000¥
+		
+ 72028 
+30.08.2025
+[10:19]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+BLACK FF 74
+69000 km
+▲ 3.5
+ 350 000¥
+1 235 000¥
+
+cancelled
+1 274 000¥
+		
+ 9001 
+30.08.2025
+[10:00]
+KCAA Minami Kyushu 2nd	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DAT  1500 cc
+AC
+SILVER FF 74
+253000 km
+▲ 3.5
+ 200 000¥
+ 689 000¥
+
+not sold
+ 511 000¥
+		
+ 87 
+29.08.2025
+[13:00]
+ZERO Chiba	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+DCVT  1500 cc
+AC
+SILVER FF 74
+113000 km
+▲ 4
+ 2 000¥
+ 955 000¥
+
+sold
+ 787 000¥
+
+ 3513 
+29.08.2025
+[11:57]
+JU Chiba	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G Safety
+AT  1500 cc
+AC
+SILVER FF 74
+59000 km
+▲ 4.5
+ 650 000¥
+1 313 000¥
+
+not sold
+1 507 000¥
+		
+ 45 
+29.08.2025
+[11:03]
+KCAA Yamaguchi	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+PAT  1500 cc
+AAC
+BLUE FF 74
+104000 km
+▲ 4
+ 300 000¥
+ 738 000¥
+
+not sold
+ 955 000¥
+		
+ 2045 
+28.08.2025
+[12:33]
+TAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+SILVER FF 74
+54000 km
+▲ 4
+ 700 000¥
+1 396 000¥
+
+sold
+1 399 000¥
+		
+ 6026 
+28.08.2025
+[12:09]
+TAA Tohoku	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+SILVER FF 74
+161000 km
+▲ 3.5
+ 100 000¥
+ 523 000¥
+
+sold
+ 511 000¥
+		
+ 70216 
+28.08.2025
+[11:48]
+TAA Tohoku	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+BLACK FF 74
+143000 km
+▲ 4
+ 50 000¥
+ 665 000¥
+
+sold
+ 683 000¥
+		
+ 82053 
+28.08.2025
+[11:21]
+TAA Kanto	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+60000 km
+▲ 4.5
+ 350 000¥
+1 886 000¥
+
+sold
+1 507 000¥
+		
+ 22066 
+28.08.2025
+[10:25]
+TAA Kanto	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+BLACK FF 74
+68000 km
+▲ 4.5
+ 480 000¥
+1 641 000¥
+
+sold
+1 587 000¥
+		
+ 70008 
+28.08.2025
+[10:01]
+TAA Kanto	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+79000 km
+▲ R
+ 100 000¥
+1 129 000¥
+
+sold
+ 726 000¥
+		
+ 3015 
+27.08.2025
+[14:09]
+HERO	
+2020 NHP170G
+HVﾌｧﾝ Base XTSS
+IA  1500 cc
+AC
+SILVER FF 74
+171000 km
+▲ 3.5
+ 50 000¥
+ 515 000¥
+
+sold
+ 511 000¥
+		
+ 10181 
+27.08.2025
+[13:55]
+MIRIVE Saitama	
+2020 NHP170G
+Hybrid Gｸｴ Low
+AT  1500 cc
+AAC
+BROWN FF 74
+68000 km
+▲ R
+ 350 000¥
+1 025 000¥
+
+not sold
+ 857 000¥
+		
+ 30460 
+27.08.2025
+[13:46]
+CAA Chubu	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+BLUE FF 74
+116000 km
+▲ 3.5
+ 150 000¥
+ 860 000¥
+
+sold
+ 867 000¥
+		
+ 60333 
+27.08.2025
+[12:27]
+BAYAUC	
+2020 NHP170G
+HV G Safety - Edition
+DAT  1500 cc
+AC
+WHITE FF 74
+61000 km
+▲ 4.5
+ 880 000¥
+1 655 000¥
+
+sold
+1 507 000¥
+		
+ 33315 
+27.08.2025
+[12:13]
+CAA Chubu	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BLACK FF 74
+71000 km
+▲ 4.5
+ 50 000¥
+1 540 000¥
+
+sold
+1 587 000¥
+		
+ 33299 
+27.08.2025
+[12:06]
+CAA Chubu	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+BLUE FF 74
+95000 km
+▲ 4
+ 10 000¥
+1 045 000¥
+
+sold
+1 117 000¥
+		
+ 3240 
+27.08.2025
+[11:54]
+KCAA Minami Kyushu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DAT  1500 cc
+AC
+SILVER FF 74
+253000 km
+▲ 3.5
+ 200 000¥
+ 668 000¥
+
+not sold
+ 511 000¥
+		
+ 60019 
+27.08.2025
+[10:42]
+BAYAUC	
+2020 NHP170G
+ﾌｧﾝ Base G Safety ED
+DAT  1500 cc
+AC
+WHITE FF 74
+37000 km
+▲ 4.5
+ 980 000¥
+1 725 000¥
+
+sold
+1 731 000¥
+		
+ 2284 
+26.08.2025
+[15:32]
+TAA Kinki	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BLACK FF 74
+79000 km
+▲ 3
+ 200 000¥
+ 926 000¥
+
+sold
+ 829 000¥
+		
+ 4804 
+26.08.2025
+[15:00]
+LUM Nagoya Nyusatsu	
+2020 NHP170G
+2WD
+AT  1500 cc
+AC
+OTHER FF 74
+234000 km
+▲ 3.5
+  0¥
+ 457 000¥
+
+sold
+ 511 000¥
+		
+ 498 
+26.08.2025
+[14:14]
+TAA Kyushu	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+RED FF 74
+82000 km
+▲ R
+ 580 000¥
+ 931 000¥
+
+not sold
+ 932 000¥
+		
+ 278 
+26.08.2025
+[13:08]
+TAA Kyushu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+WHITE FF 74
+35000 km
+▲ 3
+ 550 000¥
+1 336 000¥
+
+sold
+1 201 000¥
+
+
+ 235 
+26.08.2025
+[12:55]
+TAA Kyushu	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BEIGE FF 74
+136000 km
+▲ 4
+ 50 000¥
+1 106 000¥
+
+sold
+ 820 000¥
+		
+ 4010 
+26.08.2025
+[12:48]
+CAA Gifu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+AT  1500 cc
+AAC
+SILVER FF 74
+59000 km
+▲ R
+ 400 000¥
+ 643 000¥
+
+not sold
+ 857 000¥
+		
+ 561 
+26.08.2025
+[12:48]
+TAA Kinki	
+2021 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+WHITE FF 74
+94000 km
+▲ 4
+ 300 000¥
+1 047 000¥
+
+sold
+1 201 000¥
+		
+ 443 
+26.08.2025
+[12:12]
+TAA Kinki	
+2020 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+SILVER FF 74
+155000 km
+▲ R
+ 100 000¥
+ 616 000¥
+
+sold
+ 552 000¥
+		
+ 1135 
+26.08.2025
+[12:09]
+JU Saitama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IA  1500 cc
+AC
+SILVER FF 74
+77000 km
+▲ R
+ 80 000¥
+ 473 000¥
+
+not sold
+ 726 000¥
+		
+ 53 
+26.08.2025
+[12:00]
+TAA Kyushu	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+30000 km
+▲ R
+ 200 000¥
+1 253 000¥
+
+sold
+1 139 000¥
+		
+ 30175 
+26.08.2025
+[11:56]
+CAA Tokyo	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+BROWN FF 74
+63000 km
+▲ R
+  0¥
+ 678 000¥
+
+sold
+ 912 000¥
+		
+ 6129 
+26.08.2025
+[11:50]
+TAA Kyushu	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BLUE FF 74
+39000 km
+▲ RA
+ 580 000¥
+1 642 000¥
+
+sold
+1 470 000¥
+		
+ 30122 
+26.08.2025
+[11:38]
+CAA Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+WHITE FF 74
+167000 km
+▲ 3.5
+ 150 000¥
+ 522 000¥
+
+not sold
+ 511 000¥
+		
+ 2004 
+26.08.2025
+[11:24]
+TAA Shikoku	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+25000 km
+▲ 3.5
+1 000 000¥
+1 648 000¥
+
+sold
+1 547 000¥
+		
+ 220 
+26.08.2025
+[11:05]
+TAA Kinki	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AC
+BROWN FF 74
+103000 km
+▲ 4
+ 450 000¥
+1 230 000¥
+
+sold
+ 955 000¥
+		
+ 139 
+26.08.2025
+[10:41]
+TAA Kinki	
+2021 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+WHITE FF 74
+99000 km
+▲ 4
+ 300 000¥
+1 053 000¥
+
+sold
+1 201 000¥
+		
+ 72077 
+26.08.2025
+[10:39]
+TAA Shikoku	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+RED FF 74
+40000 km
+▲ 4
+ 580 000¥
+1 519 000¥
+
+sold
+1 550 000¥
+		
+ 36101 
+26.08.2025
+[10:39]
+CAA Tokyo	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BLACK FF 74
+41000 km
+▲ 4
+ 900 000¥
+1 746 000¥
+
+sold
+1 550 000¥
+		
+ 33053 
+26.08.2025
+[10:18]
+CAA Tokyo	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BRONZE FF 74
+31000 km
+▲ R
+ 350 000¥
+1 157 000¥
+
+sold
+1 221 000¥
+		
+ 10 
+26.08.2025
+[10:02]
+TAA Kinki	
+2021 NHP170G
+Hybrid G Safety -ED2
+IAT  1500 cc
+AAC
+BLACK FF 74
+94000 km
+▲ RA
+ 200 000¥
+ 983 000¥
+
+sold
+1 076 000¥
+		
+ 10692 
+25.08.2025
+[17:35]
+Honda AA Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base Gｸｴ Low
+DAT  1500 cc
+AAC
+PEARL WHITE FF 74
+44000 km
+▲ 4.5
+1 000 000¥
+1 717 000¥
+
+sold
+1 731 000¥
+		
+ 8334 
+25.08.2025
+[14:50]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+AT  1500 cc
+AC
+SILVER FF 74
+128000 km
+▲ R
+ 180 000¥
+ 381 000¥
+
+not sold
+ 540 000¥
+		
+ 12801 
+23.08.2025
+[15:46]
+TAA Yokohama	
+2021 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+BLACK FF 74
+62000 km
+▲ 3.5
+ 500 000¥
+1 241 000¥
+
+sold
+1 274 000¥
+		
+ 461 
+23.08.2025
+[14:31]
+TAA Yokohama	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+80000 km
+▲ 4
+ 380 000¥
+1 373 000¥
+
+sold
+1 117 000¥
+	
+ 12160 
+23.08.2025
+[11:08]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+BROWN FF 74
+46000 km
+▲ 3
+ 180 000¥
+1 233 000¥
+
+sold
+1 201 000¥
+		
+ 70048 
+23.08.2025
+[10:59]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+YELLOW -BLACK FF 74
+7000 km
+▲ R
+ 50 000¥
+ 995 000¥
+
+sold
+1 224 000¥
+		
+ 14005 
+23.08.2025
+[10:01]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+BEIGE FF 74
+18000 km
+▲ RA
+ 1 000¥
+ 958 000¥
+
+sold
+ 958 000¥
+		
+ 9002 
+23.08.2025
+[10:00]
+KCAA Minami Kyushu 2nd	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DAT  1500 cc
+AC
+SILVER FF 74
+253000 km
+▲ 3.5
+ 200 000¥
+ 656 000¥
+
+not sold
+ 511 000¥
+		
+ 60077 
+22.08.2025
+[14:46]
+ARAI Bayside	
+2020 NHP170G
+ﾌｧﾝ Base G
+IAT  1490 cc
+AAC
+SILVER FF 74
+35000 km
+▲ 4
+ 300 000¥
+1 434 000¥
+
+sold
+1 550 000¥
+		
+ 2008 
+22.08.2025
+[14:37]
+NAA Tokyo	
+2020 NHP170G
+ﾌｧﾝ Base G Safety - Edition
+IAT  1500 cc
+AC
+FF 74
+20000 km
+▲ 4.5
+ 980 000¥
+1 247 000¥
+
+not sold
+1 707 000¥
+		
+ 1019 
+22.08.2025
+[13:24]
+LAA Okayama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DA  1500 cc
+AAC
+BEIGE FF 74
+161000 km
+▲ 3.5
+  0¥
+  0¥
+
+not sold
+ 511 000¥
+		
+ 1586 
+22.08.2025
+[12:21]
+JU Chiba	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G Safety
+AT  1500 cc
+AAC
+SILVER FF 74
+59000 km
+▲ 4.5
+ 800 000¥
+1 091 000¥
+
+not sold
+1 507 000¥
+		
+ 143 
+22.08.2025
+[10:41]
+KCAA Yamaguchi	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+PAT  1500 cc
+AAC
+BLUE FF 74
+104000 km
+▲ 4
+ 300 000¥
+ 732 000¥
+
+not sold
+ 955 000¥
+		
+ 2012 
+22.08.2025
+NAA Tokyo	
+2020 NHP170G
+ﾌｧﾝ Base G Safety - Edition
+IAT  1500 cc
+AC
+FF 74
+20000 km
+▲ 4.5
+ 980 000¥
+  0¥
+
+removed
+1 707 000¥
+		
+ 50063 
+21.08.2025
+[14:58]
+TAA Kanto	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+SILVER FF 74
+138000 km
+▲ R
+ 30 000¥
+ 504 000¥
+
+sold
+ 540 000¥
+		
+ 219 
+21.08.2025
+[14:26]
+TAA Kanto	
+2021 NHP170G
+HV G ｸｴ Low
+IAT  1500 cc
+AAC
+BRONZE FF 74
+31000 km
+▲ R
+ 250 000¥
+1 171 000¥
+
+not sold
+1 221 000¥
+		
+ 700 
+21.08.2025
+[14:23]
+KCAA Fukuoka	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+DAT  1500 cc
+AC
+SILVER FF 74
+175000 km
+▲ 3.5
+ 280 000¥
+ 883 000¥
+
+sold
+ 511 000¥
+		
+ 106 
+21.08.2025
+[13:47]
+TAA Kanto	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+58000 km
+▲ 4.5
+ 800 000¥
+1 676 000¥
+
+sold
+1 507 000¥
+		
+ 63 
+21.08.2025
+[13:32]
+TAA Kanto	
+2020 NHP170G
+Hybrid G ｸﾞﾗﾝﾊﾟ
+IAT  1500 cc
+AAC
+BEIGE FF 74
+127000 km
+▲ 4
+ 400 000¥
+ 901 000¥
+
+sold
+ 683 000¥
+		
+ 3025 
+21.08.2025
+[12:14]
+JU Aichi	
+2021 NHP170G
+H)ﾌｧﾝ Base G Safety ED
+IAT  1500 cc
+AAC
+SILVER FF 74
+9000 km
+▲ 4.5
+ 500 000¥
+1 601 000¥
+
+sold
+1 782 000¥
+		
+ 20091 
+21.08.2025
+[11:36]
+TAA Kanto	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+56000 km
+▲ 4.5
+ 900 000¥
+1 602 000¥
+
+sold
+1 507 000¥
+		
+ 82003 
+21.08.2025
+[11:16]
+TAA Kanto	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BLUE FF 74
+26000 km
+▲ 4
+ 450 000¥
+1 695 000¥
+
+sold
+1 550 000¥
+		
+ 22099 
+21.08.2025
+[10:38]
+TAA Kanto	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+KEY FF 74
+41000 km
+▲ 4
+ 800 000¥
+1 430 000¥
+
+sold
+1 550 000¥
+		
+ 20099 
+20.08.2025
+[15:05]
+CAA Chubu	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+AT  1500 cc
+AAC
+WHITE FF 74
+37000 km
+▲ 4.5
+ 880 000¥
+1 970 000¥
+
+sold
+1 866 000¥
+	
+ 50080 
+20.08.2025
+[14:11]
+MIRIVE Saitama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+AT  1500 cc
+AC
+WHITE FF 74
+106000 km
+▲ 4
+ 150 000¥
+ 444 000¥
+
+sold
+ 787 000¥
+		
+ 30277 
+20.08.2025
+[12:59]
+CAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+WINE FF 74
+39000 km
+▲ 4.5
+1 000 000¥
+1 585 000¥
+
+sold
+1 731 000¥
+		
+ 3017 
+20.08.2025
+[12:41]
+HERO	
+2020 NHP170G
+HVﾌｧﾝ Base XTSS
+IA  1500 cc
+AC
+SILVER FF 74
+171000 km
+▲ 3.5
+ 50 000¥
+ 461 000¥
+
+not sold
+ 511 000¥
+		
+ 10103 
+20.08.2025
+[12:27]
+MIRIVE Saitama	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G Safety Edition
+IAT  1500 cc
+AAC
+RED FF 74
+21000 km
+▲ R
+ 400 000¥
+ 478 000¥
+
+not sold
+1 152 000¥
+		
+ 30737 
+19.08.2025
+[15:15]
+CAA Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+WHITE FF 74
+167000 km
+▲ 3.5
+ 150 000¥
+ 492 000¥
+
+not sold
+ 511 000¥
+		
+ 2108 
+19.08.2025
+[13:45]
+TAA Kinki	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+BLUE FF 74
+13000 km
+▲ 3.5
+ 880 000¥
+1 696 000¥
+
+sold
+1 530 000¥
+		
+ 358 
+19.08.2025
+[13:42]
+TAA Kyushu	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+GREEN FF 74
+112000 km
+▲ 4
+ 500 000¥
+ 857 000¥
+
+sold
+ 787 000¥
+		
+ 1131 
+19.08.2025
+[10:56]
+JU Saitama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IA  1500 cc
+AC
+SILVER FF 74
+77000 km
+▲ R
+ 80 000¥
+ 473 000¥
+
+not sold
+ 726 000¥
+		
+ 164 
+19.08.2025
+[10:48]
+TAA Kinki	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+21000 km
+▲ R
+ 750 000¥
+1 212 000¥
+
+sold
+1 152 000¥
+		
+ 2102 
+19.08.2025
+[10:36]
+TAA Kyushu	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+39000 km
+▲ 4.5
+ 980 000¥
+2 066 000¥
+
+sold
+1 731 000¥
+		
+ 2091 
+19.08.2025
+[10:33]
+TAA Kyushu	
+2021 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+BLACK FF 74
+53000 km
+▲ 3.5
+ 350 000¥
+1 349 000¥
+
+sold
+1 274 000¥
+		
+ 5759 
+09.08.2025
+[14:41]
+JU Gifu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base Gｸｴ Low TSS
+IAT  1500 cc
+AAC
+TEA FF 74
+112000 km
+▲ 4
+ 80 000¥
+ 475 000¥
+
+not sold
+ 787 000¥
+		
+ 12461 
+09.08.2025
+[13:19]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+WHITE FF 74
+39000 km
+▲ 4
+ 680 000¥
+1 835 000¥
+
+sold
+1 775 000¥
+		
+ 72052 
+09.08.2025
+[10:29]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+BLACK FF 74
+36000 km
+▲ 4
+ 580 000¥
+1 690 000¥
+
+sold
+1 550 000¥
+		
+ 60079 
+08.08.2025
+[11:28]
+MIRIVE Aichi	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+AT  1500 cc
+AAC
+BLACK FF 74
+92000 km
+▲ R
+ 100 000¥
+ 421 000¥
+
+not sold
+ 726 000¥
+		
+ 71 
+08.08.2025
+[10:49]
+KCAA Yamaguchi	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+PAT  1500 cc
+AAC
+BLUE FF 74
+104000 km
+▲ 4
+ 300 000¥
+ 735 000¥
+
+not sold
+ 955 000¥
+		
+ 1072 
+08.08.2025
+MOTA Kuruma Kaitori Plus	
+2020 NHP170G
+G ｸｴ Low
+IAT  1500 cc
+AAC
+BEIGE FF 74
+24000 km
+▲ 4.5
+ 700 000¥
+1 765 000¥
+
+not sold
+1 707 000¥
+		
+ 1047 
+08.08.2025
+MOTA Kuruma Kaitori Plus	
+2021 NHP170G
+G ｸｴ Low
+IAT  1500 cc
+AC
+BEIGE FF 74
+150000 km
+▲ 3.5
+ 5 000¥
+ 730 000¥
+
+sold
+ 652 000¥
+		
+ 5 
+07.08.2025
+[13:28]
+TAA Chubu	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+BEIGE FF 74
+33000 km
+▲ R
+ 400 000¥
+1 435 000¥
+
+sold
+1 221 000¥
+		
+ 6 
+07.08.2025
+[13:00]
+ZERO Osaka	
+2020 NHP170G
+Hybrid ｼｬ
+DAT  1500 cc
+AC
+SILVER FF 74
+98000 km
+▲ 3.5
+ 2 000¥
+ 849 000¥
+
+sold
+ 873 000¥
+	
+ 6301 
+07.08.2025
+[11:42]
+TAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+SILVER FF 74
+102000 km
+▲ R
+ 200 000¥
+ 520 000¥
+
+sold
+ 588 000¥
+		
+ 210 
+07.08.2025
+[11:34]
+KCAA Fukuoka	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+DAT  1500 cc
+AC
+SILVER FF 74
+175000 km
+▲ 3.5
+ 280 000¥
+ 460 000¥
+
+not sold
+ 511 000¥
+		
+ 5161 
+07.08.2025
+[11:07]
+JU Aichi	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+AT  1500 cc
+AAC
+BLACK FF 74
+92000 km
+▲ R
+ 200 000¥
+ 311 000¥
+
+not sold
+ 726 000¥
+		
+ 771 
+07.08.2025
+KCAA Fukuoka	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+DAT  1500 cc
+AC
+SILVER FF 74
+175000 km
+▲ 3.5
+ 280 000¥
+  0¥
+
+removed
+ 511 000¥
+		
+ 20233 
+06.08.2025
+[15:25]
+CAA Chubu	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+AT  1500 cc
+AAC
+WHITE FF 74
+37000 km
+▲ 4.5
+ 880 000¥
+1 800 000¥
+
+not sold
+1 866 000¥
+		
+ 10097 
+06.08.2025
+[15:00]
+LUM Tokyo Nyusatsu	
+2020 NHP170G
+2WD
+AT  1500 cc
+AC
+OTHER FF 74
+167000 km
+▲ 3.5
+  0¥
+ 450 000¥
+
+sold
+ 511 000¥
+		
+ 3024 
+06.08.2025
+[14:12]
+HERO	
+2020 NHP170G
+HVﾌｧﾝ Base XTSS
+IA  1500 cc
+AC
+SILVER FF 74
+171000 km
+▲ 3.5
+ 50 000¥
+ 446 000¥
+
+not sold
+ 511 000¥
+		
+ 30357 
+06.08.2025
+[13:06]
+CAA Chubu	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+BLACK FF 74
+66000 km
+▲ 4
+ 400 000¥
+ 985 000¥
+
+sold
+1 429 000¥
+		
+ 6502 
+06.08.2025
+[11:32]
+IAA Osaka	
+2020 NHP170G
+G ｸ Low ｴ
+DA  1500 cc
+AAC
+BLUE FF 74
+16000 km
+▲ 4.5
+ 770 000¥
+1 700 000¥
+
+sold
+1 707 000¥
+		
+ 97 
+06.08.2025
+[11:31]
+KCAA Minami Kyushu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DAT  1500 cc
+AC
+SILVER FF 74
+253000 km
+▲ 3.5
+ 200 000¥
+ 650 000¥
+
+not sold
+ 511 000¥
+		
+ 2022 
+05.08.2025
+[14:03]
+TAA Kinki	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+42000 km
+▲ 4
+ 950 000¥
+1 907 000¥
+
+sold
+1 775 000¥
+		
+ 239 
+05.08.2025
+[12:49]
+TAA Kyushu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+WHITE FF 74
+99000 km
+▲ 4.5
+ 250 000¥
+ 721 000¥
+
+sold
+1 159 000¥
+		
+ 30274 
+05.08.2025
+[12:19]
+CAA Tokyo	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+WHITE FF 74
+89000 km
+▲ 4
+ 190 000¥
+ 916 000¥
+
+sold
+1 201 000¥
+		
+ 1262 
+05.08.2025
+[11:51]
+JU Saitama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IA  1500 cc
+AC
+SILVER FF 74
+77000 km
+▲ R
+ 80 000¥
+ 308 000¥
+
+not sold
+ 726 000¥
+		
+ 120 
+05.08.2025
+[11:44]
+TAA Hiroshima	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+WHITE FF 74
+171000 km
+▲ 3.5
+ 50 000¥
+ 767 000¥
+
+sold
+ 511 000¥
+		
+ 6126 
+05.08.2025
+[11:42]
+TAA Kyushu	
+2020 NHP170G
+Hybrid G Safety ED
+IAT  1500 cc
+AAC
+RED FF 74
+65000 km
+▲ 3.5
+ 398 000¥
+1 241 000¥
+
+sold
+1 190 000¥
+		
+ 10 
+05.08.2025
+[11:40]
+TAA Kyushu	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+118000 km
+▲ 3.5
+ 234 000¥
+ 984 000¥
+
+sold
+ 867 000¥
+		
+ 256 
+05.08.2025
+[11:16]
+TAA Kinki	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+BLUE FF 74
+95000 km
+▲ 3.5
+ 450 000¥
+1 101 000¥
+
+sold
+ 873 000¥
+		
+ 2010 
+05.08.2025
+[11:06]
+TAA Shikoku	
+2020 NHP170G
+Hybrid G ｸﾞﾗﾝﾊﾟ
+IAT  1500 cc
+AAC
+BLUE FF 74
+35000 km
+▲ 3.5
+1 000 000¥
+1 651 000¥
+
+sold
+1 442 000¥
+		
+ 170 
+05.08.2025
+[10:50]
+TAA Kinki	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+21000 km
+▲ R
+ 750 000¥
+1 059 000¥
+
+not sold
+1 152 000¥
+	
+ 5840 
+02.08.2025
+[15:15]
+JU Gifu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base Gｸｴ Low TSS
+IAT  1500 cc
+AAC
+TEA FF 74
+112000 km
+▲ 4
+ 80 000¥
+ 475 000¥
+
+not sold
+ 787 000¥
+		
+ 12622 
+02.08.2025
+[14:28]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+SILVER FF 74
+68000 km
+▲ 3.5
+ 100 000¥
+1 108 000¥
+
+sold
+1 190 000¥
+		
+ 12536 
+02.08.2025
+[13:51]
+TAA Yokohama	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+24000 km
+▲ 4.5
+ 800 000¥
+1 796 000¥
+
+sold
+1 707 000¥
+		
+ 5198 
+02.08.2025
+[13:26]
+JU Gifu	
+2021 NHP170G
+Hybrid G Toyota Safety Sense
+IAT  1500 cc
+AAC
+WHITE FF 74
+62000 km
+▲ 3.5
+  0¥
+  0¥
+
+not sold
+1 274 000¥
+		
+ 70090 
+02.08.2025
+[11:23]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+WHITE FF 74
+104000 km
+▲ 3.5
+ 280 000¥
+ 820 000¥
+
+sold
+ 867 000¥
+		
+ 70074 
+02.08.2025
+[11:17]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+RED FF 74
+55000 km
+▲ 3
+ 100 000¥
+1 228 000¥
+
+sold
+1 154 000¥
+		
+ 72072 
+02.08.2025
+[10:40]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+50000 km
+▲ 3.5
+ 580 000¥
+1 639 000¥
+
+sold
+1 442 000¥
+		
+ 72057 
+02.08.2025
+[10:34]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+WINE FF 74
+78000 km
+▲ 3
+ 180 000¥
+1 206 000¥
+
+sold
+ 717 000¥
+		
+ 12080 
+02.08.2025
+[10:33]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+PEARL TWO-TONE FF 74
+21000 km
+▲ 4.5
+ 700 000¥
+1 927 000¥
+
+sold
+1 707 000¥
+		
+ 9005 
+02.08.2025
+[10:02]
+KCAA Minami Kyushu 2nd	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DAT  1500 cc
+AC
+SILVER FF 74
+253000 km
+▲ 3.5
+ 200 000¥
+ 575 000¥
+
+not sold
+ 511 000¥
+		
+ 88 
+01.08.2025
+[10:57]
+KCAA Yamaguchi	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+PAT  1500 cc
+AAC
+BLUE FF 74
+104000 km
+▲ 4
+ 300 000¥
+ 735 000¥
+
+not sold
+ 955 000¥
+		
+ 6248 
+31.07.2025
+[11:24]
+TAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AC
+BLACK FF 74
+92000 km
+▲ R
+ 250 000¥
+ 460 000¥
+
+not sold
+ 726 000¥
+		
+ 72024 
+31.07.2025
+[11:01]
+TAA Kanto	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+BLACK FF 74
+29000 km
+▲ 3.5
+ 100 000¥
+1 153 000¥
+
+sold
+1 442 000¥
+		
+ 80507 
+31.07.2025
+[10:22]
+TAA Chubu	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+SILVER FF 74
+54000 km
+▲ R
+ 1 000¥
+1 090 000¥
+
+sold
+ 857 000¥
+		
+ 30511 
+30.07.2025
+[14:20]
+CAA Chubu	
+2021 NHP170G
+Hybrid G Safety -ED
+FAT  1500 cc
+AAC
+BLACK FF 74
+77000 km
+▲ 4
+ 330 000¥
+1 455 000¥
+
+sold
+1 201 000¥
+		
+ 11082 
+30.07.2025
+[14:06]
+CAA Chubu	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+SILVER FF 74
+59000 km
+▲ 4
+ 200 000¥
+1 445 000¥
+
+sold
+1 429 000¥
+		
+ 10083 
+30.07.2025
+[12:23]
+MIRIVE Saitama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+BLACK FF 74
+78000 km
+▲ 4.5
+ 300 000¥
+1 182 000¥
+
+sold
+1 159 000¥
+		
+ 3023 
+30.07.2025
+[12:21]
+HERO	
+2020 NHP170G
+HVﾌｧﾝ Base XTSS
+IA  1500 cc
+AC
+SILVER FF 74
+171000 km
+▲ 3.5
+ 50 000¥
+ 458 000¥
+
+not sold
+ 511 000¥
+		
+ 90200 
+30.07.2025
+[12:00]
+CAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+BROWN FF 74
+137000 km
+▲ 4
+ 10 000¥
+ 541 000¥
+
+sold
+ 683 000¥
+		
+ 36082 
+30.07.2025
+[10:29]
+CAA Chubu	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+BLACK FF 74
+42000 km
+▲ 4.5
+ 430 000¥
+1 500 000¥
+
+sold
+1 731 000¥
+	
+ 2286 
+29.07.2025
+[14:50]
+TAA Kinki	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+WHITE FF 74
+74000 km
+▲ 4.5
+ 650 000¥
+1 514 000¥
+
+sold
+1 587 000¥
+		
+ 2087 
+29.07.2025
+[13:36]
+TAA Kinki	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+33000 km
+▲ 4
+1 100 000¥
+1 838 000¥
+
+sold
+1 550 000¥
+		
+ 30417 
+29.07.2025
+[13:12]
+CAA Tokyo	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+AT  1500 cc
+AAC
+PEARL 2 FF 74
+74000 km
+▲ R
+ 50 000¥
+ 863 000¥
+
+sold
+ 912 000¥
+		
+ 288 
+29.07.2025
+[13:03]
+TAA Hiroshima	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BROWN FF 74
+89000 km
+▲ RA
+ 300 000¥
+1 170 000¥
+
+sold
+1 076 000¥
+		
+ 2026 
+29.07.2025
+[12:51]
+JU Saitama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IA  1500 cc
+AC
+SILVER FF 74
+77000 km
+▲ R
+ 80 000¥
+ 341 000¥
+
+not sold
+ 726 000¥
+		
+ 227 
+29.07.2025
+[12:41]
+TAA Kyushu	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+SILVER FF 74
+25000 km
+▲ R
+ 1 000¥
+ 898 000¥
+
+sold
+1 152 000¥
+		
+ 176 
+29.07.2025
+[12:25]
+TAA Kyushu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AC
+SILVER FF 74
+175000 km
+▲ 3
+ 50 000¥
+ 437 000¥
+
+sold
+ 437 000¥
+		
+ 100 
+29.07.2025
+[12:02]
+TAA Kyushu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+BLUE FF 74
+48000 km
+▲ 4
+ 300 000¥
+1 470 000¥
+
+sold
+1 550 000¥
+		
+ 293 
+29.07.2025
+[11:27]
+TAA Kinki	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+21000 km
+▲ R
+ 750 000¥
+1 155 000¥
+
+not sold
+1 152 000¥
+		
+ 30080 
+29.07.2025
+[11:16]
+CAA Tokyo	
+2020 NHP170G
+Hybrid G Safety -ED
+AT  1500 cc
+AAC
+RED FF 74
+18000 km
+▲ 4.5
+ 650 000¥
+1 655 000¥
+
+sold
+1 707 000¥
+		
+ 5986 
+26.07.2025
+[15:37]
+JU Gifu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base Gｸｴ Low TSS
+IAT  1500 cc
+AAC
+TEA FF 74
+112000 km
+▲ 4
+ 80 000¥
+ 675 000¥
+
+not sold
+ 787 000¥
+		
+ 201 
+26.07.2025
+[13:10]
+TAA Yokohama	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED2
+IAT  1500 cc
+AAC
+WHITE FF 74
+88000 km
+▲ 4.5
+ 380 000¥
+1 259 000¥
+
+sold
+1 159 000¥
+		
+ 5160 
+26.07.2025
+[12:53]
+JU Gifu	
+2021 NHP170G
+Hybrid G Toyota Safety Sense
+IAT  1500 cc
+AAC
+WHITE FF 74
+62000 km
+▲ 3.5
+ 580 000¥
+ 790 000¥
+
+not sold
+1 274 000¥
+		
+ 140 
+26.07.2025
+[12:46]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+SILVER FF 74
+130000 km
+▲ 4
+ 1 000¥
+ 508 000¥
+
+sold
+ 683 000¥
+		
+ 72104 
+26.07.2025
+[10:54]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BLACK FF 74
+59000 km
+▲ 4
+ 480 000¥
+1 671 000¥
+
+sold
+1 429 000¥
+		
+ 60062 
+25.07.2025
+[11:40]
+MIRIVE Aichi	
+2020 NHP170G
+Hybrid Gｸｴ Low
+AT  1500 cc
+AAC
+RED FF 74
+76000 km
+▲ R
+ 280 000¥
+ 955 000¥
+
+sold by nego
+ 726 000¥
+		
+ 135 
+25.07.2025
+[11:16]
+KCAA Yamaguchi	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+PAT  1500 cc
+AAC
+BLUE FF 74
+104000 km
+▲ 4
+ 300 000¥
+ 732 000¥
+
+not sold
+ 955 000¥
+		
+ 2185 
+24.07.2025
+[13:51]
+TAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+BLUE FF 74
+54000 km
+▲ 3.5
+ 10 000¥
+1 060 000¥
+
+sold
+1 190 000¥
+		
+ 2042 
+24.07.2025
+[12:54]
+TAA Chubu	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BLACK FF 74
+71000 km
+▲ 3.5
+ 300 000¥
+1 161 000¥
+
+sold
+1 274 000¥
+		
+ 6340 
+24.07.2025
+[11:55]
+TAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+SILVER FF 74
+137000 km
+▲ R
+ 50 000¥
+ 620 000¥
+
+sold
+ 540 000¥
+	
+ 6035 
+24.07.2025
+[11:39]
+TAA Hokkaido	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+25000 km
+▲ 4
+ 700 000¥
+1 738 000¥
+
+sold
+1 620 000¥
+		
+ 72058 
+24.07.2025
+[10:49]
+TAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+SILVER FF 74
+59000 km
+▲ RA
+ 200 000¥
+ 932 000¥
+
+sold
+ 979 000¥
+		
+ 72015 
+24.07.2025
+[10:32]
+TAA Tohoku	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+WHITE FF 74
+40000 km
+▲ 4
+ 700 000¥
+1 801 000¥
+
+sold
+1 775 000¥
+		
+ 3038 
+23.07.2025
+[16:40]
+HERO	
+2020 NHP170G
+HVﾌｧﾝ Base XTSS
+IA  1500 cc
+AC
+SILVER FF 74
+171000 km
+▲ 3.5
+ 50 000¥
+ 422 000¥
+
+not sold
+ 511 000¥
+		
+ 36481 
+23.07.2025
+[12:56]
+CAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+YELLOW FF 74
+38000 km
+▲ 3.5
+ 600 000¥
+1 355 000¥
+
+sold
+1 442 000¥
+		
+ 36302 
+23.07.2025
+[11:50]
+CAA Chubu	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+37000 km
+▲ 4
+1 000 000¥
+1 810 000¥
+
+sold
+1 775 000¥
+		
+ 36245 
+23.07.2025
+[11:29]
+CAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+BLUE FF 74
+26000 km
+▲ 4
+ 350 000¥
+1 265 000¥
+
+sold
+1 550 000¥
+		
+ 30012 
+23.07.2025
+[11:25]
+CAA Chubu	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BEIGE FF 74
+116000 km
+▲ R
+ 17 000¥
+ 877 000¥
+
+sold
+ 877 000¥
+		
+ 75062 
+22.07.2025
+[13:54]
+CAA Tokyo	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BEIGE FF 74
+32000 km
+▲ 99
+  0¥
+ 957 000¥
+
+sold
+ 957 000¥
+		
+ 2093 
+22.07.2025
+[13:10]
+JU Saitama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IA  1500 cc
+AC
+SILVER FF 74
+77000 km
+▲ R
+ 80 000¥
+ 359 000¥
+
+not sold
+ 726 000¥
+		
+ 554 
+22.07.2025
+[12:45]
+TAA Kinki	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+21000 km
+▲ R
+ 750 000¥
+1 077 000¥
+
+not sold
+1 152 000¥
+		
+ 2029 
+22.07.2025
+[10:10]
+TAA Kyushu	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+78000 km
+▲ 4
+ 410 000¥
+1 313 000¥
+
+sold
+1 117 000¥
+		
+ 297 
+21.07.2025
+[14:04]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+AT  1500 cc
+AC
+SILVER FF 74
+128000 km
+▲ R
+ 180 000¥
+ 369 000¥
+
+not sold
+ 540 000¥
+		
+ 1067 
+21.07.2025
+[11:49]
+NISSAN Osaka	
+2020 NHP170G
+ﾌｧﾝ Base G
+AT  1500 cc
+AC
+BEIGE FF 74
+142000 km
+▲ 3.5
+ 100 000¥
+ 535 000¥
+
+sold
+ 506 000¥
+		
+ 5967 
+19.07.2025
+[15:46]
+JU Gifu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base Gｸｴ Low TSS
+IAT  1500 cc
+AAC
+TEA FF 74
+112000 km
+▲ 4
+ 80 000¥
+ 440 000¥
+
+not sold
+ 787 000¥
+		
+ 7199 
+19.07.2025
+[15:43]
+JU Gifu	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G Safety ED TSS
+IAT  1500 cc
+AAC
+BLACK FF 74
+16000 km
+▲ 3.5
+ 980 000¥
+  0¥
+
+not sold
+1 530 000¥
+		
+ 5232 
+19.07.2025
+[13:41]
+JU Gifu	
+2021 NHP170G
+Hybrid G Toyota Safety Sense
+IAT  1500 cc
+AAC
+WHITE FF 74
+62000 km
+▲ 3.5
+ 580 000¥
+1 035 000¥
+
+not sold
+1 274 000¥
+		
+ 12448 
+19.07.2025
+[13:16]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+SILVER FF 74
+67000 km
+▲ 4
+ 280 000¥
+1 066 000¥
+
+sold
+1 399 000¥
+		
+ 2111 
+19.07.2025
+[11:54]
+TAA Hyogo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+38000 km
+▲ 3.5
+ 450 000¥
+1 572 000¥
+
+sold
+1 442 000¥
+		
+ 42070 
+19.07.2025
+[11:10]
+TAA Hyogo	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+21000 km
+▲ R
+ 750 000¥
+1 038 000¥
+
+not sold
+1 152 000¥
+
+ 12139 
+19.07.2025
+[11:00]
+TAA Yokohama	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+WHITE FF 74
+19000 km
+▲ 4
+ 500 000¥
+1 850 000¥
+
+sold
+1 749 000¥
+		
+ 12102 
+19.07.2025
+[10:44]
+TAA Yokohama	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+WHITE FF 74
+11000 km
+▲ 5
+1 300 000¥
+1 915 000¥
+
+sold
+2 030 000¥
+		
+ 3093 
+18.07.2025
+[14:40]
+JU Fukuoka	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+DAT  1500 cc
+AC
+SILVER FF 74
+175000 km
+▲ 3.5
+ 110 000¥
+ 314 000¥
+
+sold
+ 511 000¥
+		
+ 60196 
+18.07.2025
+[14:23]
+ARAI Bayside	
+2020 NHP170G
+G Safety Edition
+IAT  1490 cc
+AAC
+WHITE FF 74
+116000 km
+▲ 4
+ 50 000¥
+ 815 000¥
+
+sold
+ 787 000¥
+		
+ 7041 
+18.07.2025
+[14:17]
+JU Chiba	
+2021 NHP170G
+AT  1490 cc
+AAC
+BEIGE FF 74
+31000 km
+▲  
+ 25 000¥
+ 757 000¥
+
+sold
+ 757 000¥
+		
+ 16 
+18.07.2025
+[13:00]
+ZERO Chiba	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+DCVT  1500 cc
+AC
+SILVER FF 74
+77000 km
+▲ R
+ 2 000¥
+ 460 000¥
+
+sold
+ 726 000¥
+		
+ 15 
+18.07.2025
+[13:00]
+ZERO Chiba	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+DCVT  1500 cc
+AC
+SILVER FF 74
+87000 km
+▲ 3
+ 2 000¥
+ 455 000¥
+
+sold
+ 717 000¥
+		
+ 10 
+18.07.2025
+[13:00]
+ZERO Chiba	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+DCVT  1500 cc
+AC
+SILVER FF 74
+94000 km
+▲ 3.5
+ 2 000¥
+ 585 000¥
+
+sold
+ 873 000¥
+		
+ 11 
+18.07.2025
+[13:00]
+ZERO Chiba	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+DCVT  1500 cc
+AC
+SILVER FF 74
+136000 km
+▲ 3.5
+ 2 000¥
+ 480 000¥
+
+sold
+ 506 000¥
+		
+ 106 
+18.07.2025
+[12:53]
+NAA Tokyo	
+2020 NHP170G
+G
+IAT  1500 cc
+AC
+DARK BLUE FF 74
+45000 km
+▲ 3
+ 500 000¥
+ 908 000¥
+
+sold
+1 201 000¥
+		
+ 4137 
+18.07.2025
+[12:48]
+JU Tochigi	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base Gｸﾞﾗﾝﾊﾟ
+IA  1500 cc
+AAC
+BEIGE FF 74
+41000 km
+▲ 4
+ 780 000¥
+1 086 000¥
+
+not sold
+1 775 000¥
+		
+ 60020 
+18.07.2025
+[11:10]
+MIRIVE Aichi	
+2020 NHP170G
+Hybrid Gｸｴ Low
+AT  1500 cc
+AAC
+RED FF 74
+76000 km
+▲ R
+ 280 000¥
+ 427 000¥
+
+not sold
+ 726 000¥
+		
+ 184 
+18.07.2025
+[10:59]
+KCAA Yamaguchi	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+PAT  1500 cc
+AAC
+BLUE FF 74
+104000 km
+▲ 4
+ 300 000¥
+ 612 000¥
+
+not sold
+ 955 000¥
+		
+ 4234 
+17.07.2025
+[14:27]
+JU Aichi	
+2021 NHP170G
+Hybrid G
+AT  1500 cc
+AAC
+WHITE FF 74
+84000 km
+▲ 3.5
+ 150 000¥
+1 095 000¥
+
+sold
+1 095 000¥
+		
+ 50021 
+17.07.2025
+[13:34]
+TAA Kanto	
+2020 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+SILVER FF 74
+174000 km
+▲ RA
+ 100 000¥
+ 517 000¥
+
+sold
+ 517 000¥
+		
+ 52 
+17.07.2025
+[13:13]
+TAA Chubu	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AC
+GREY FF 74
+94000 km
+▲ R
+ 210 000¥
+ 357 000¥
+
+not sold
+ 932 000¥
+		
+ 6009 
+17.07.2025
+[11:33]
+TAA Tohoku	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+BEIGE FF 74
+60000 km
+▲ 4
+ 100 000¥
+1 378 000¥
+
+sold
+1 399 000¥
+		
+ 6011 
+17.07.2025
+[11:33]
+TAA Tohoku	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+SILVER FF 74
+222000 km
+▲ R
+ 30 000¥
+ 276 000¥
+
+sold
+ 552 000¥
+		
+ 6030 
+17.07.2025
+[11:32]
+JU Kanagawa	
+2021 NHP170G
+Hybrid Gｸｴ Low
+DAT  1500 cc
+AAC
+RED FF 74
+97000 km
+▲ 4.5
+ 550 000¥
+1 093 000¥
+
+sold
+1 036 000¥
+		
+ 82053 
+17.07.2025
+[11:27]
+TAA Kanto	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+BLACK FF 74
+34000 km
+▲ 4
+ 550 000¥
+1 750 000¥
+
+sold
+1 550 000¥
+	
+ 20076 
+17.07.2025
+[11:20]
+TAA Kanto	
+2020 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+WHITE FF 74
+96000 km
+▲ 4
+ 280 000¥
+ 757 000¥
+
+sold
+1 117 000¥
+		
+ 72018 
+17.07.2025
+[10:24]
+TAA Tohoku	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BLACK FF 74
+47000 km
+▲ 4
+ 700 000¥
+1 693 000¥
+
+sold
+1 550 000¥
+		
+ 22020 
+17.07.2025
+[10:07]
+TAA Kanto	
+2020 NHP170G
+HV ﾌｧﾝ Base G ｸﾞﾗﾝﾊﾟ
+IAT  1500 cc
+AAC
+BLUE FF 74
+58000 km
+▲ 3.5
+ 500 000¥
+1 301 000¥
+
+sold
+1 190 000¥
+		
+ 30069 
+16.07.2025
+[11:37]
+CAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+BLACK FF 74
+104000 km
+▲ 4
+ 190 000¥
+ 695 000¥
+
+sold
+ 787 000¥
+		
+ 577 
+16.07.2025
+[11:36]
+HERO	
+2021 NHP170G
+HV G TSS
+IA  1500 cc
+AC
+YELLOW FF 74
+93000 km
+▲ 4.5
+ 250 000¥
+ 958 000¥
+
+sold
+1 036 000¥
+		
+ 544 
+16.07.2025
+[11:26]
+HERO	
+2020 NHP170G
+HVﾌｧﾝ Base XTSS
+IA  1500 cc
+AC
+SILVER FF 74
+171000 km
+▲ 3.5
+ 50 000¥
+ 644 000¥
+
+not sold
+ 511 000¥
+		
+ 30111 
+16.07.2025
+[10:55]
+MIRIVE Saitama	
+2020 NHP170G
+Hybrid G Safety Edition
+AT  1500 cc
+AC
+SILVER FF 74
+44000 km
+▲ 4
+ 980 000¥
+1 505 000¥
+
+sold
+1 550 000¥
+		
+ 2238 
+15.07.2025
+[15:03]
+TAA Kinki	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+SILVER FF 74
+48000 km
+▲ 4
+ 880 000¥
+1 411 000¥
+
+sold
+1 550 000¥
+		
+ 293 
+15.07.2025
+[13:16]
+TAA Hiroshima	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+BROWN FF 74
+158000 km
+▲ 3.5
+ 150 000¥
+ 507 000¥
+
+sold
+ 511 000¥
+		
+ 542 
+15.07.2025
+[12:42]
+TAA Kinki	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+21000 km
+▲ R
+ 750 000¥
+1 158 000¥
+
+not sold
+1 152 000¥
+		
+ 167 
+15.07.2025
+[12:36]
+TAA Kyushu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+SILVER FF 74
+97000 km
+▲ 4
+ 10 000¥
+ 841 000¥
+
+sold
+1 117 000¥
+		
+ 303 
+15.07.2025
+[11:30]
+TAA Kinki	
+2021 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+52000 km
+▲ R
+  0¥
+  0¥
+
+not sold
+ 912 000¥
+		
+ 1165 
+14.07.2025
+[13:03]
+NISSAN Osaka	
+2020 NHP170G
+ﾌｧﾝ Base G
+AT  1500 cc
+AC
+BEIGE FF 74
+142000 km
+▲ 3.5
+ 100 000¥
+ 525 000¥
+
+not sold
+ 506 000¥
+		
+ 68 
+14.07.2025
+[10:52]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+AT  1500 cc
+AC
+YELLOW FF 74
+135000 km
+▲ R
+ 30 000¥
+ 492 000¥
+
+sold
+ 540 000¥
+		
+ 31 
+14.07.2025
+[10:42]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+AT  1500 cc
+AC
+SILVER FF 74
+128000 km
+▲ R
+ 180 000¥
+ 375 000¥
+
+not sold
+ 540 000¥
+		
+ 40055 
+14.07.2025
+Honda AA Sendai	
+2020 NHP170G
+HYBRID FAN BASE G
+DAT  1500 cc
+AAC
+FF 74
+58000 km
+▲ 4
+ 600 000¥
+  0¥
+
+1 399 000¥
+		
+ 6074 
+12.07.2025
+[15:55]
+JU Gifu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base Gｸｴ Low TSS
+IAT  1500 cc
+AAC
+TEA FF 74
+112000 km
+▲ 4
+ 80 000¥
+ 255 000¥
+
+not sold
+ 787 000¥
+		
+ 7267 
+12.07.2025
+[15:17]
+JU Gifu	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G Safety ED TSS
+IAT  1500 cc
+AAC
+BLACK FF 74
+16000 km
+▲ 3.5
+ 980 000¥
+  0¥
+
+not sold
+1 530 000¥
+		
+ 445 
+12.07.2025
+[14:39]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+BLUE FF 74
+86000 km
+▲ 4
+ 200 000¥
+1 037 000¥
+
+sold
+1 117 000¥
+		
+ 324 
+12.07.2025
+[13:49]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+RED FF 74
+24000 km
+▲ 4
+ 800 000¥
+1 523 000¥
+
+sold
+1 749 000¥
+
+ 5317 
+12.07.2025
+[13:47]
+JU Gifu	
+2021 NHP170G
+Hybrid G Toyota Safety Sense
+IAT  1500 cc
+AAC
+WHITE FF 74
+62000 km
+▲ 3.5
+ 150 000¥
+ 480 000¥
+
+not sold
+1 274 000¥
+		
+ 12508 
+12.07.2025
+[13:43]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+25000 km
+▲ 4
+ 600 000¥
+1 815 000¥
+
+sold
+1 620 000¥
+		
+ 252 
+12.07.2025
+[13:20]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+WHITE FF 74
+87000 km
+▲ 4.5
+ 100 000¥
+1 078 000¥
+
+sold
+1 159 000¥
+		
+ 241 
+12.07.2025
+[13:16]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+BLACK FF 74
+41000 km
+▲ 2
+ 280 000¥
+ 907 000¥
+
+sold
+ 907 000¥
+		
+ 12392 
+12.07.2025
+[12:52]
+TAA Yokohama	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+RED FF 74
+46000 km
+▲ 4
+ 350 000¥
+1 442 000¥
+
+sold
+1 550 000¥
+		
+ 70010 
+12.07.2025
+[12:42]
+ARAI Oyama VT	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AC
+GREY FF 74
+94000 km
+▲ RA
+ 80 000¥
+ 595 000¥
+
+not sold
+1 076 000¥
+		
+ 12333 
+12.07.2025
+[12:26]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G Safety -ED2
+IAT  1500 cc
+AAC
+BLACK FF 74
+40000 km
+▲ 3.5
+ 680 000¥
+1 559 000¥
+
+sold
+1 455 000¥
+		
+ 50030 
+12.07.2025
+[11:57]
+TAA Hyogo	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+81000 km
+▲ 3.5
+ 500 000¥
+ 944 000¥
+
+sold
+ 873 000¥
+		
+ 37 
+12.07.2025
+[11:52]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+SILVER FF 74
+93000 km
+▲ R
+ 150 000¥
+ 588 000¥
+
+sold
+ 726 000¥
+		
+ 8335 
+12.07.2025
+[11:04]
+JU Gifu	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+WHITE FF 74
+52000 km
+▲ 4
+ 850 000¥
+1 425 000¥
+
+sold
+1 399 000¥
+		
+ 12096 
+12.07.2025
+[10:41]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+BLACK FF 74
+67000 km
+▲ 3.5
+ 380 000¥
+1 460 000¥
+
+sold
+1 274 000¥
+		
+ 19 
+12.07.2025
+[10:05]
+TAA Hyogo	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+RED TWO-TONE FF 74
+120000 km
+▲ 3.5
+ 200 000¥
+1 088 000¥
+
+sold
+ 820 000¥
+		
+ 1198 
+11.07.2025
+[12:38]
+LAA Okayama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DA  1500 cc
+AAC
+SILVER FF 74
+128000 km
+▲ 4
+  0¥
+  0¥
+
+not sold
+ 683 000¥
+		
+ 6003 
+11.07.2025
+[12:28]
+KCAA Yamaguchi	
+2021 NHP170G
+Hybrid G
+PAT  1500 cc
+AC
+RED FF 74
+82000 km
+▲ X
+ 10 000¥
+ 601 000¥
+
+sold
+ 601 000¥
+		
+ 60018 
+11.07.2025
+[11:07]
+MIRIVE Aichi	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+AT  1500 cc
+AAC
+SILVER FF 74
+177000 km
+▲ 3.5
+ 1 000¥
+ 706 000¥
+
+sold
+ 511 000¥
+		
+ 1827 
+11.07.2025
+[11:03]
+LAA Okayama	
+2021 NHP170G
+Hybrid G Safety
+DA  1500 cc
+AAC
+WINE FF 74
+32000 km
+▲ R
+ 550 000¥
+1 072 000¥
+
+sold
+1 221 000¥
+		
+ 43 
+11.07.2025
+[10:13]
+KCAA Yamaguchi	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+PAT  1500 cc
+AAC
+BLUE FF 74
+104000 km
+▲ 4
+ 300 000¥
+ 744 000¥
+
+not sold
+ 955 000¥
+		
+ 4818 
+10.07.2025
+[13:11]
+TAA Kanto	
+2020 NHP170G
+Wheelchair
+IAT  1500 cc
+AAC
+SILVER FF 74
+87000 km
+▲ 3
+ 300 000¥
+ 510 000¥
+
+sold
+ 717 000¥
+		
+ 52061 
+10.07.2025
+[12:46]
+TAA Kanto	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+SILVER FF 74
+46000 km
+▲ 4.5
+ 500 000¥
+1 514 000¥
+
+sold
+1 731 000¥
+		
+ 5162 
+10.07.2025
+[12:26]
+JU Aichi	
+2020 NHP170G
+Hybrid G ｸｴ Low
+AT  1500 cc
+AAC
+WHITE FF 74
+71000 km
+▲ 4.5
+ 860 000¥
+1 391 000¥
+
+not sold
+1 507 000¥
+	
+ 70308 
+10.07.2025
+[12:23]
+TAA Tohoku	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+BLACK FF 74
+39000 km
+▲ 4
+ 500 000¥
+1 076 000¥
+
+sold
+1 775 000¥
+		
+ 72008 
+10.07.2025
+[11:02]
+TAA Kanto	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+BLACK FF 74
+77000 km
+▲ 3.5
+ 250 000¥
+1 087 000¥
+
+sold
+ 873 000¥
+		
+ 22145 
+10.07.2025
+[10:56]
+TAA Kanto	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+63000 km
+▲ 4
+ 380 000¥
+1 556 000¥
+
+sold
+1 399 000¥
+		
+ 30019 
+10.07.2025
+[10:50]
+MIRIVE Osaka	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+AT  1500 cc
+AC
+SILVER FF 74
+18000 km
+▲ 4
+ 680 000¥
+1 456 000¥
+
+sold
+1 620 000¥
+		
+ 6148 
+10.07.2025
+[10:48]
+TAA Chubu	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BLACK FF 74
+69000 km
+▲ RA
+ 600 000¥
+1 305 000¥
+
+sold
+ 979 000¥
+		
+ 6148 
+09.07.2025
+[13:14]
+IAA Osaka	
+2020 NHP170G
+ﾌｧﾝ Base X
+DA  1500 cc
+AAC
+SILVER FF 74
+88000 km
+▲ 3.5
+ 180 000¥
+ 612 000¥
+
+sold
+ 873 000¥
+		
+ 640 
+09.07.2025
+[11:52]
+HERO	
+2020 NHP170G
+HVﾌｧﾝ Base XTSS
+IA  1500 cc
+AC
+SILVER FF 74
+171000 km
+▲ 3.5
+ 50 000¥
+ 344 000¥
+
+not sold
+ 511 000¥
+		
+ 44 
+09.07.2025
+[11:27]
+KCAA Minami Kyushu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DAT  1500 cc
+AC
+SILVER FF 74
+253000 km
+▲ 3.5
+ 200 000¥
+ 602 000¥
+
+not sold
+ 511 000¥
+		
+ 15177 
+09.07.2025
+[11:15]
+MIRIVE Saitama	
+2021 NHP170G
+Hybrid G Safety Edition 2
+IAT  1500 cc
+AAC
+WHITE FF 74
+80000 km
+▲ R
+ 170 000¥
+ 842 000¥
+
+sold
+ 932 000¥
+		
+ 30064 
+09.07.2025
+[10:31]
+MIRIVE Saitama	
+2020 NHP170G
+Hybrid G Safety Edition
+AT  1500 cc
+AC
+SILVER FF 74
+44000 km
+▲ 4
+ 980 000¥
+1 634 000¥
+
+not sold
+1 550 000¥
+		
+ 36069 
+09.07.2025
+[10:24]
+CAA Chubu	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+26000 km
+▲ 3.5
+ 460 000¥
+1 435 000¥
+
+sold
+1 442 000¥
+		
+ 70041 
+08.07.2025
+[15:20]
+TAA Kinki	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+SILVER FF 74
+140000 km
+▲ 4
+ 20 000¥
+ 512 000¥
+
+sold
+ 683 000¥
+		
+ 710 
+08.07.2025
+[13:32]
+TAA Kinki	
+2021 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+52000 km
+▲ R
+ 750 000¥
+ 966 000¥
+
+not sold
+ 912 000¥
+		
+ 2175 
+08.07.2025
+[13:30]
+TAA Hiroshima	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+SILVER FF 74
+20000 km
+▲ 4.5
+ 900 000¥
+1 572 000¥
+
+sold
+1 707 000¥
+		
+ 2146 
+08.07.2025
+[13:09]
+TAA Hiroshima	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+WHITE FF 74
+47000 km
+▲ 4
+ 550 000¥
+1 498 000¥
+
+sold
+1 550 000¥
+		
+ 536 
+08.07.2025
+[12:40]
+TAA Kinki	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+BLUE FF 74
+197000 km
+▲ 3.5
+ 100 000¥
+ 499 000¥
+
+sold
+ 512 000¥
+		
+ 495 
+08.07.2025
+[12:28]
+TAA Kinki	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+139000 km
+▲ 4
+ 300 000¥
+ 762 000¥
+
+sold
+ 820 000¥
+		
+ 433 
+08.07.2025
+[12:09]
+TAA Kinki	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+BEIGE FF 74
+143000 km
+▲ 3.5
+ 100 000¥
+ 484 000¥
+
+sold
+ 506 000¥
+		
+ 30212 
+08.07.2025
+[12:09]
+CAA Tokyo	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BLUE FF 74
+147000 km
+▲ 4
+ 100 000¥
+ 691 000¥
+
+sold
+ 683 000¥
+		
+ 6083 
+08.07.2025
+[11:16]
+TAA Kyushu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+WHITE FF 74
+107000 km
+▲ 3.5
+ 210 000¥
+ 852 000¥
+
+sold
+ 867 000¥
+	
+ 256 
+07.07.2025
+[17:20]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+AT  1500 cc
+AC
+SILVER FF 74
+128000 km
+▲ R
+ 180 000¥
+ 303 000¥
+
+not sold
+ 540 000¥
+		
+ 138 
+07.07.2025
+[12:06]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+AT  1500 cc
+AC
+YELLOW FF 74
+135000 km
+▲ R
+ 30 000¥
+ 354 000¥
+
+not sold
+ 540 000¥
+		
+ 82 
+07.07.2025
+[11:50]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+AT  1500 cc
+AC
+BLUE FF 74
+128000 km
+▲ 3.5
+ 130 000¥
+ 580 000¥
+
+sold
+ 506 000¥
+		
+ 6147 
+05.07.2025
+[16:05]
+JU Gifu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base Gｸｴ Low TSS
+IAT  1500 cc
+AAC
+TEA FF 74
+112000 km
+▲ 4
+ 80 000¥
+ 515 000¥
+
+not sold
+ 787 000¥
+		
+ 514 
+05.07.2025
+[15:13]
+TAA Yokohama	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+BLACK FF 74
+46000 km
+▲ 3.5
+ 300 000¥
+1 185 000¥
+
+sold
+1 442 000¥
+		
+ 338 
+05.07.2025
+[14:02]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+RED FF 74
+24000 km
+▲ 4
+ 800 000¥
+1 490 000¥
+
+not sold
+1 749 000¥
+		
+ 203 
+05.07.2025
+[13:07]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G Safety -ED2
+IAT  1500 cc
+AAC
+WHITE FF 74
+22000 km
+▲ R
+ 400 000¥
+1 345 000¥
+
+sold
+1 152 000¥
+		
+ 5083 
+05.07.2025
+[12:48]
+JU Gifu	
+2020 NHP170G
+Hybrid Gｸｴ Low
+IAT  1500 cc
+AAC
+RED FF 74
+77000 km
+▲ 4
+ 500 000¥
+ 545 000¥
+
+not sold
+1 117 000¥
+		
+ 12328 
+05.07.2025
+[12:23]
+TAA Yokohama	
+2021 NHP170G
+HVﾌｧﾝ Base G Safety -ED2
+IAT  1500 cc
+AC
+BLUE FF 74
+25000 km
+▲ 3.5
+ 250 000¥
+1 579 000¥
+
+sold
+1 530 000¥
+		
+ 50065 
+05.07.2025
+[11:55]
+TAA Hyogo	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+81000 km
+▲ 3.5
+ 500 000¥
+  0¥
+
+not sold
+ 873 000¥
+		
+ 50066 
+05.07.2025
+[11:55]
+TAA Hyogo	
+2020 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+SILVER FF 74
+185000 km
+▲ 3.5
+ 100 000¥
+ 607 000¥
+
+sold
+ 511 000¥
+		
+ 2008 
+05.07.2025
+[11:28]
+TAA Hyogo	
+2020 NHP170G
+Hybrid G ｸﾞﾗﾝﾊﾟ
+IAT  1500 cc
+AAC
+BEIGE FF 74
+64000 km
+▲ 4.5
+ 450 000¥
+1 527 000¥
+
+sold
+1 507 000¥
+		
+ 8444 
+05.07.2025
+[11:25]
+JU Gifu	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G Safety ED TSS
+IAT  1500 cc
+AAC
+BLACK FF 74
+16000 km
+▲ 3.5
+ 750 000¥
+ 925 000¥
+
+not sold
+1 530 000¥
+		
+ 8411 
+05.07.2025
+[11:19]
+JU Gifu	
+2021 NHP170G
+Hybrid G Toyota Safety Sense
+IAT  1500 cc
+AAC
+WHITE FF 74
+62000 km
+▲ 3.5
+ 150 000¥
+ 510 000¥
+
+not sold
+1 274 000¥
+		
+ 12084 
+05.07.2025
+[10:36]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+GREY FF 74
+41000 km
+▲ 3.5
+ 450 000¥
+1 089 000¥
+
+sold
+1 442 000¥
+		
+ 1271 
+04.07.2025
+[13:04]
+LAA Okayama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DA  1500 cc
+AAC
+SILVER FF 74
+128000 km
+▲ 4
+ 180 000¥
+ 510 000¥
+
+not sold
+ 683 000¥
+		
+ 60051 
+04.07.2025
+[11:06]
+MIRIVE Aichi	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+AT  1500 cc
+AAC
+SILVER FF 74
+177000 km
+▲ 3.5
+ 1 000¥
+ 385 000¥
+
+not sold
+ 511 000¥
+		
+ 6 
+04.07.2025
+[10:26]
+KCAA Yamaguchi	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+PAT  1500 cc
+AAC
+BLUE FF 74
+104000 km
+▲ 4
+ 300 000¥
+ 759 000¥
+
+not sold
+ 955 000¥
+		
+ 50045 
+03.07.2025
+[13:27]
+TAA Kanto	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+WHITE FF 74
+63000 km
+▲ R
+ 300 000¥
+ 888 000¥
+
+sold
+ 912 000¥
+		
+ 50014 
+03.07.2025
+[13:17]
+TAA Kanto	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+SILVER FF 74
+171000 km
+▲ 3.5
+ 10 000¥
+ 451 000¥
+
+sold
+ 511 000¥
+	
+ 3049 
+03.07.2025
+[13:08]
+JU Toyama	
+2020 NHP170G
+Hybrid G Safety Edition
+IAT  1496 cc
+AAC
+WHITE FF 74
+30000 km
+▲ R
+ 400 000¥
+1 327 000¥
+
+sold
+1 139 000¥
+		
+ 9 
+03.07.2025
+[13:00]
+ZERO Osaka	
+2020 NHP170G
+Hybrid ｼｬ
+DAT  1500 cc
+AC
+SILVER FF 74
+88000 km
+▲ 3.5
+ 2 000¥
+ 532 000¥
+
+sold
+ 873 000¥
+		
+ 362 
+03.07.2025
+[12:10]
+KCAA Fukuoka	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+DAT  1500 cc
+AAC
+SILVER FF 74
+150000 km
+▲ R
+ 180 000¥
+ 543 000¥
+
+sold
+ 540 000¥
+		
+ 3072 
+03.07.2025
+[12:08]
+JU Aichi	
+2020 NHP170G
+Hybrid G Safety ED
+AT  1500 cc
+AC
+BLACK FF 74
+61000 km
+▲ R
+ 380 000¥
+ 683 000¥
+
+sold
+ 857 000¥
+		
+ 6094 
+03.07.2025
+[12:01]
+TAA Hokkaido	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+RED FF 74
+93000 km
+▲ 3
+ 150 000¥
+ 732 000¥
+
+sold
+ 829 000¥
+		
+ 70230 
+03.07.2025
+[11:45]
+TAA Tohoku	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+BLACK FF 74
+39000 km
+▲ 4
+ 500 000¥
+1 076 000¥
+
+not sold
+1 775 000¥
+		
+ 80504 
+03.07.2025
+[10:41]
+TAA Chubu	
+2020 NHP170G
+HV ﾌｧﾝ Base G ｸﾞﾗﾝﾊﾟ
+IAT  1500 cc
+AAC
+BEIGE FF 74
+65000 km
+▲ 3.5
+ 1 000¥
+1 156 000¥
+
+sold
+1 190 000¥
+		
+ 82040 
+03.07.2025
+[10:29]
+TAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+BEIGE FF 74
+72000 km
+▲ 4.5
+ 70 000¥
+1 072 000¥
+
+sold
+1 507 000¥
+		
+ 6004 
+02.07.2025
+KCAA Kyoto	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+BLUE FF 74
+104000 km
+▲ 4
+ 350 000¥
+  0¥
+
+ 955 000¥
+		
+ 52 
+02.07.2025
+KCAA Minami Kyushu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DAT  1500 cc
+AC
+SILVER FF 74
+253000 km
+▲ 3.5
+ 200 000¥
+  0¥
+
+ 511 000¥
+		
+ 2256 
+01.07.2025
+[14:45]
+TAA Kinki	
+2021 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BROWN FF 74
+37000 km
+▲ 4
+ 800 000¥
+  0¥
+
+1 775 000¥
+		
+ 2221 
+01.07.2025
+[14:32]
+TAA Kinki	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+WHITE FF 74
+33000 km
+▲ 4.5
+ 480 000¥
+  0¥
+
+1 731 000¥
+		
+ 2165 
+01.07.2025
+[14:11]
+TAA Kinki	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+SILVER FF 74
+38000 km
+▲ 3.5
+ 600 000¥
+  0¥
+
+1 442 000¥
+		
+ 277 
+01.07.2025
+[12:57]
+TAA Kyushu	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+99000 km
+▲ 4
+ 600 000¥
+  0¥
+
+1 117 000¥
+		
+ 75 
+01.07.2025
+[11:15]
+TAA Hiroshima	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+WHITE FF 74
+81000 km
+▲ 4
+ 600 000¥
+  0¥
+
+1 117 000¥
+		
+ 2169 
+01.07.2025
+[11:01]
+TAA Kyushu	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BLACK FF 74
+53000 km
+▲ 4.5
+ 580 000¥
+  0¥
+
+1 507 000¥
+		
+ 2011 
+01.07.2025
+[10:54]
+TAA Shikoku	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+BLACK FF 74
+49000 km
+▲ 3.5
+ 880 000¥
+  0¥
+
+1 442 000¥
+		
+ 84 
+30.06.2025
+[10:59]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+AT  1500 cc
+AC
+YELLOW FF 74
+135000 km
+▲ R
+ 30 000¥
+ 348 000¥
+
+not sold
+ 540 000¥
+		
+ 59 
+30.06.2025
+[10:52]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+AT  1500 cc
+AC
+BLUE FF 74
+128000 km
+▲ 3.5
+ 130 000¥
+ 376 000¥
+
+not sold
+ 506 000¥
+		
+ 6152 
+28.06.2025
+[16:09]
+JU Gifu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base Gｸｴ Low TSS
+IAT  1500 cc
+AAC
+TEA FF 74
+112000 km
+▲ 4
+ 80 000¥
+ 675 000¥
+
+not sold
+ 787 000¥
+	
+ 482 
+28.06.2025
+[15:14]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+RED FF 74
+24000 km
+▲ 4
+ 800 000¥
+1 385 000¥
+
+not sold
+1 749 000¥
+		
+ 343 
+28.06.2025
+[14:18]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G ｸﾞﾗﾝﾊﾟ
+IAT  1500 cc
+AAC
+BEIGE FF 74
+38000 km
+▲ R
+ 900 000¥
+1 134 000¥
+
+sold
+1 221 000¥
+		
+ 219 
+28.06.2025
+[13:27]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+SILVER FF 74
+177000 km
+▲ 3.5
+ 1 000¥
+ 379 000¥
+
+sold
+ 511 000¥
+		
+ 5086 
+28.06.2025
+[12:49]
+JU Gifu	
+2020 NHP170G
+Hybrid Gｸｴ Low
+IAT  1500 cc
+AAC
+RED FF 74
+77000 km
+▲ 4
+ 500 000¥
+1 215 000¥
+
+not sold
+1 117 000¥
+		
+ 70020 
+28.06.2025
+[12:20]
+ARAI Oyama VT	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AC
+GREY FF 74
+94000 km
+▲ RA
+ 80 000¥
+ 605 000¥
+
+not sold
+1 076 000¥
+		
+ 50094 
+28.06.2025
+[12:13]
+TAA Hyogo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+SILVER FF 74
+189000 km
+▲ 3.5
+ 80 000¥
+ 400 000¥
+
+sold
+ 511 000¥
+		
+ 2122 
+28.06.2025
+[12:06]
+TAA Hyogo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+WHITE FF 74
+27000 km
+▲ 3.5
+ 500 000¥
+1 283 000¥
+
+sold
+1 442 000¥
+		
+ 50043 
+28.06.2025
+[11:58]
+TAA Hyogo	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+81000 km
+▲ 3.5
+ 600 000¥
+  0¥
+
+not sold
+ 873 000¥
+		
+ 12268 
+28.06.2025
+[11:57]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G ｸﾞﾗﾝﾊﾟ
+IAT  1500 cc
+AAC
+BLUE FF 74
+5000 km
+▲ 4.5
+ 700 000¥
+1 969 000¥
+
+sold
+1 782 000¥
+		
+ 60062 
+27.06.2025
+[13:38]
+ARAI Bayside	
+2020 NHP170G
+ﾌｧﾝ Base X
+IAT  1490 cc
+AAC
+SILVER FF 74
+176000 km
+▲ 3.5
+ 30 000¥
+ 450 000¥
+
+sold
+ 511 000¥
+		
+ 1087 
+27.06.2025
+[12:51]
+LAA Okayama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DA  1500 cc
+AAC
+SILVER FF 74
+128000 km
+▲ 4
+ 180 000¥
+ 396 000¥
+
+not sold
+ 683 000¥
+		
+ 2018 
+27.06.2025
+[12:37]
+JU Miyagi	
+2020 NHP170G
+Hybrid G Safety Edition
+AT  1500 cc
+AAC
+SILVER FF 74
+44000 km
+▲ 4
+ 980 000¥
+1 337 000¥
+
+not sold
+1 550 000¥
+		
+ 2014 
+27.06.2025
+[12:36]
+JU Miyagi	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G Safety Edition
+IA  1496 cc
+AAC
+WHITE FF 74
+73000 km
+▲ 3.5
+ 90 000¥
+ 648 000¥
+
+not sold
+1 190 000¥
+		
+ 4072 
+26.06.2025
+[14:22]
+TAA Kanto	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+SILVER FF 74
+195000 km
+▲ 3.5
+ 10 000¥
+ 373 000¥
+
+sold
+ 511 000¥
+		
+ 3142 
+26.06.2025
+[12:41]
+JU Aichi	
+2020 NHP170G
+Hybrid G Safety ED
+AT  1500 cc
+AC
+BLACK FF 74
+61000 km
+▲ R
+ 380 000¥
+  0¥
+
+not sold
+ 857 000¥
+		
+ 366 
+26.06.2025
+[12:08]
+KCAA Fukuoka	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+DAT  1500 cc
+AAC
+SILVER FF 74
+150000 km
+▲ R
+ 180 000¥
+ 411 000¥
+
+not sold
+ 540 000¥
+		
+ 2039 
+26.06.2025
+[12:05]
+TAA Tohoku	
+2021 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+BLACK FF 74
+17000 km
+▲ 3.5
+ 750 000¥
+1 500 000¥
+
+sold
+1 530 000¥
+		
+ 2059 
+26.06.2025
+[11:57]
+TAA Kanto	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+WHITE FF 74
+7000 km
+▲ 4.5
+ 280 000¥
+1 552 000¥
+
+sold
+1 707 000¥
+		
+ 2037 
+26.06.2025
+[11:48]
+TAA Kanto	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+WHITE FF 74
+13000 km
+▲ 4
+1 000 000¥
+1 843 000¥
+
+sold
+1 620 000¥
+		
+ 72015 
+26.06.2025
+[10:27]
+TAA Tohoku	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+WHITE FF 74
+51000 km
+▲ 4
+ 700 000¥
+1 339 000¥
+
+sold
+1 399 000¥
+	
+ 6037 
+26.06.2025
+[10:12]
+TAA Chubu	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+BEIGE FF 74
+38000 km
+▲ 4
+ 600 000¥
+1 788 000¥
+
+sold
+1 775 000¥
+		
+ 20213 
+25.06.2025
+[15:17]
+CAA Chubu	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+FAT  1500 cc
+AAC
+BLACK FF 74
+74000 km
+▲ R
+ 390 000¥
+ 795 000¥
+
+sold
+ 857 000¥
+		
+ 30473 
+25.06.2025
+[13:58]
+CAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+RED TWO-TONE FF 74
+72000 km
+▲ 4.5
+ 500 000¥
+1 215 000¥
+
+sold
+1 507 000¥
+		
+ 60451 
+25.06.2025
+[13:08]
+BAYAUC	
+2020 NHP170G
+Hybrid G ｸｴ Low
+DAT  1500 cc
+AC
+BLUE FF 74
+31000 km
+▲ 4.5
+1 090 000¥
+1 830 000¥
+
+sold
+1 731 000¥
+		
+ 8016 
+25.06.2025
+[11:54]
+KCAA Kyoto	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+BLUE FF 74
+104000 km
+▲ 4
+ 350 000¥
+ 749 000¥
+
+not sold
+ 955 000¥
+		
+ 90171 
+25.06.2025
+[11:38]
+CAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+SILVER FF 74
+132000 km
+▲ 3.5
+ 18 000¥
+ 453 000¥
+
+sold
+ 506 000¥
+		
+ 36222 
+25.06.2025
+[11:20]
+CAA Chubu	
+2020 NHP170G
+Hybrid G ｸｴ Low
+AT  1500 cc
+AAC
+RED 2 FF 74
+30000 km
+▲ 3
+ 500 000¥
+1 470 000¥
+
+sold
+1 201 000¥
+		
+ 79 
+25.06.2025
+[10:58]
+KCAA Minami Kyushu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DAT  1500 cc
+AC
+SILVER FF 74
+253000 km
+▲ 3.5
+ 200 000¥
+ 587 000¥
+
+not sold
+ 511 000¥
+		
+ 2168 
+24.06.2025
+[14:50]
+TAA Kinki	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+BLACK FF 74
+38000 km
+▲ 4
+1 000 000¥
+1 891 000¥
+
+sold
+1 550 000¥
+		
+ 550 
+24.06.2025
+[12:44]
+TAA Kinki	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+SILVER FF 74
+86000 km
+▲ 4
+ 100 000¥
+ 952 000¥
+
+sold
+1 117 000¥
+		
+ 2037 
+24.06.2025
+[12:06]
+TAA Hiroshima	
+2020 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+SILVER FF 74
+79000 km
+▲ 3.5
+ 150 000¥
+ 810 000¥
+
+sold
+ 873 000¥
+		
+ 335 
+24.06.2025
+[11:40]
+TAA Kinki	
+2021 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AC
+WHITE FF 74
+52000 km
+▲ R
+ 300 000¥
+ 954 000¥
+
+sold
+ 912 000¥
+		
+ 33119 
+24.06.2025
+[10:41]
+CAA Tokyo	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WINE FF 74
+52000 km
+▲ 4.5
+ 580 000¥
+1 591 000¥
+
+sold
+1 507 000¥
+		
+ 276 
+23.06.2025
+[14:22]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+AT  1500 cc
+AC
+SILVER FF 74
+128000 km
+▲ R
+ 180 000¥
+ 279 000¥
+
+not sold
+ 540 000¥
+		
+ 25080 
+23.06.2025
+[12:07]
+AUCNET	
+2020 NHP170G
+ﾌｧﾝ Base G
+IAT  1500 cc
+AC
+SILVER FF 74
+146000 km
+▲ 4
+  0¥
+ 545 000¥
+
+sold
+ 683 000¥
+		
+ 87 
+23.06.2025
+[10:53]
+JU Tokyo	
+2021 NHP170G
+Hybrid X
+AT  1500 cc
+AC
+WHITE FF 74
+129000 km
+▲ 4
+ 230 000¥
+ 785 000¥
+
+sold
+ 820 000¥
+		
+ 56 
+23.06.2025
+[10:44]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+AT  1500 cc
+AC
+YELLOW FF 74
+135000 km
+▲ R
+ 30 000¥
+ 279 000¥
+
+not sold
+ 540 000¥
+		
+ 12 
+23.06.2025
+[10:32]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+AT  1500 cc
+AC
+BLUE FF 74
+128000 km
+▲ 3.5
+ 130 000¥
+ 433 000¥
+
+not sold
+ 506 000¥
+		
+ 468 
+23.06.2025
+AUCNET	
+2020 NHP170G
+FAN BASE G HYBRID
+IAT  1500 cc
+AC
+FF 74
+146000 km
+▲ 4
+  0¥
+  0¥
+
+removed
+ 683 000¥
+		
+ 6167 
+21.06.2025
+[17:00]
+JU Gifu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base Gｸｴ Low TSS
+IAT  1500 cc
+AAC
+TEA FF 74
+112000 km
+▲ 4
+ 80 000¥
+ 645 000¥
+
+not sold
+ 787 000¥
+	
+ 5358 
+21.06.2025
+[14:43]
+JU Gifu	
+2020 NHP170G
+Hybrid Gｸｴ Low
+IAT  1500 cc
+AAC
+RED FF 74
+77000 km
+▲ 4
+ 500 000¥
+ 985 000¥
+
+not sold
+1 117 000¥
+		
+ 378 
+21.06.2025
+[14:12]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G ｸﾞﾗﾝﾊﾟ
+IAT  1500 cc
+AAC
+BEIGE FF 74
+38000 km
+▲ R
+ 900 000¥
+1 077 000¥
+
+not sold
+1 221 000¥
+		
+ 12481 
+21.06.2025
+[13:32]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AC
+BLUE FF 74
+31000 km
+▲ 3.5
+ 450 000¥
+1 596 000¥
+
+sold
+1 442 000¥
+		
+ 7020 
+21.06.2025
+[13:23]
+JU Yamagata	
+2020 NHP170G
+Hybrid X 7 Seats
+AT  1500 cc
+AC
+BROWN FF 74
+31000 km
+▲ 4
+ 850 000¥
+1 069 000¥
+
+not sold
+1 550 000¥
+		
+ 12412 
+21.06.2025
+[13:01]
+TAA Yokohama	
+2020 NHP170G
+Hybrid X
+IAT  1500 cc
+AC
+BLACK FF 74
+58000 km
+▲ 3.5
+ 200 000¥
+1 019 000¥
+
+sold
+1 190 000¥
+		
+ 182 
+21.06.2025
+[12:52]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+RED FF 74
+82000 km
+▲ 3.5
+ 300 000¥
+ 948 000¥
+
+sold
+ 873 000¥
+		
+ 181 
+21.06.2025
+[12:52]
+TAA Yokohama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+WHITE FF 74
+98000 km
+▲ 3.5
+ 100 000¥
+ 937 000¥
+
+sold
+ 873 000¥
+		
+ 158 
+21.06.2025
+[12:42]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+RED FF 74
+9000 km
+▲ R
+ 180 000¥
+1 242 000¥
+
+sold
+1 224 000¥
+		
+ 150 
+21.06.2025
+[12:39]
+TAA Yokohama	
+2021 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+WHITE FF 74
+124000 km
+▲ 3.5
+ 50 000¥
+ 551 000¥
+
+sold
+ 820 000¥
+		
+ 12326 
+21.06.2025
+[12:23]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+SILVER FF 74
+45000 km
+▲ 3
+ 380 000¥
+1 085 000¥
+
+sold
+1 201 000¥
+		
+ 100 
+21.06.2025
+[12:18]
+TAA Yokohama	
+2021 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+WHITE FF 74
+136000 km
+▲ 3.5
+ 50 000¥
+ 542 000¥
+
+sold
+ 652 000¥
+		
+ 50060 
+21.06.2025
+[12:16]
+TAA Hyogo	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+81000 km
+▲ 3.5
+ 700 000¥
+  0¥
+
+not sold
+ 873 000¥
+		
+ 20006 
+21.06.2025
+[12:13]
+JU Gifu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+AT  1500 cc
+AAC
+WHITE FF 74
+101000 km
+▲ 4
+ 50 000¥
+ 760 000¥
+
+sold
+ 787 000¥
+		
+ 50034 
+21.06.2025
+[12:08]
+TAA Hyogo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+SILVER FF 74
+189000 km
+▲ 3.5
+ 50 000¥
+ 428 000¥
+
+not sold
+ 511 000¥
+		
+ 50013 
+21.06.2025
+[12:02]
+TAA Hyogo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+WHITE FF 74
+164000 km
+▲ 3.5
+ 30 000¥
+ 387 000¥
+
+sold
+ 511 000¥
+		
+ 70589 
+21.06.2025
+[11:51]
+JU Gifu	
+2020 NHP170G
+Hybrid G Safety Edition
+AT  1500 cc
+AC
+BLACK FF 74
+61000 km
+▲ R
+ 10 000¥
+ 616 000¥
+
+sold
+ 857 000¥
+		
+ 12137 
+21.06.2025
+[11:00]
+TAA Yokohama	
+2021 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+SILVER FF 74
+9000 km
+▲ 3.5
+ 480 000¥
+1 344 000¥
+
+sold
+1 530 000¥
+		
+ 72095 
+21.06.2025
+[10:47]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G Safety -ED
+IAT  1500 cc
+AAC
+SILVER FF 74
+56000 km
+▲ 3.5
+ 200 000¥
+1 205 000¥
+
+sold
+1 190 000¥
+		
+ 12081 
+21.06.2025
+[10:35]
+TAA Yokohama	
+2020 NHP170G
+HV ﾌｧﾝ Base G ｸﾞﾗﾝﾊﾟ
+IAT  1500 cc
+AAC
+BLUE FF 74
+63000 km
+▲ 4
+ 570 000¥
+1 377 000¥
+
+sold
+1 399 000¥
+		
+ 72047 
+21.06.2025
+[10:27]
+TAA Yokohama	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+RED FF 74
+16000 km
+▲ 3.5
+ 580 000¥
+1 396 000¥
+
+sold
+1 547 000¥
+	
+ 4188 
+20.06.2025
+[18:24]
+LAA Okayama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DA  1500 cc
+AAC
+SILVER FF 74
+128000 km
+▲ 4
+ 180 000¥
+ 468 000¥
+
+not sold
+ 683 000¥
+		
+ 60352 
+20.06.2025
+[15:16]
+ARAI Bayside	
+2020 NHP170G
+ﾌｧﾝ Base X
+IAT  1490 cc
+AAC
+SILVER FF 74
+176000 km
+▲ 3.5
+ 30 000¥
+ 420 000¥
+
+not sold
+ 511 000¥
+		
+ 2044 
+20.06.2025
+[12:47]
+JU Miyagi	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G Safety Edition
+IA  1496 cc
+AAC
+WHITE FF 74
+73000 km
+▲ 3.5
+ 90 000¥
+ 630 000¥
+
+not sold
+1 190 000¥
+		
+ 2038 
+20.06.2025
+[12:45]
+JU Miyagi	
+2020 NHP170G
+Hybrid G Safety Edition
+AT  1500 cc
+AAC
+SILVER FF 74
+44000 km
+▲ 4
+ 980 000¥
+1 301 000¥
+
+not sold
+1 550 000¥
+		
+ 4279 
+19.06.2025
+[14:48]
+JU Aichi	
+2021 NHP170G
+H)G ｸﾞﾗﾝﾊﾟ- Navi Lady P
+AT  1500 cc
+AAC
+BEIGE FF 74
+68000 km
+▲ 4.5
+ 750 000¥
+1 563 000¥
+
+sold
+1 587 000¥
+		
+ 50005 
+19.06.2025
+[13:38]
+TAA Kanto	
+2020 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+SILVER FF 74
+116000 km
+▲ 4
+ 10 000¥
+ 769 000¥
+
+sold
+ 787 000¥
+		
+ 3167 
+19.06.2025
+[12:57]
+JU Aichi	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+WHITE FF 74
+19000 km
+▲ 4.5
+ 780 000¥
+1 960 000¥
+
+sold
+1 707 000¥
+		
+ 2047 
+19.06.2025
+[12:19]
+TAA Chubu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+WHITE FF 74
+41000 km
+▲ 4
+ 250 000¥
+1 078 000¥
+
+sold
+1 550 000¥
+		
+ 368 
+19.06.2025
+[12:13]
+KCAA Fukuoka	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+DAT  1500 cc
+AAC
+SILVER FF 74
+150000 km
+▲ R
+ 180 000¥
+ 408 000¥
+
+not sold
+ 540 000¥
+		
+ 20169 
+19.06.2025
+[11:53]
+TAA Kanto	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+BLACK FF 74
+104000 km
+▲ 4
+ 10 000¥
+ 784 000¥
+
+sold
+ 787 000¥
+		
+ 6037 
+19.06.2025
+[11:26]
+JU Kanagawa	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G
+DAT  1500 cc
+AAC
+WHITE FF 74
+162000 km
+▲ 3.5
+  0¥
+ 525 000¥
+
+sold
+ 512 000¥
+		
+ 82039 
+19.06.2025
+[11:22]
+TAA Kanto	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+BEIGE FF 74
+54000 km
+▲ 4
+ 450 000¥
+1 497 000¥
+
+sold
+1 399 000¥
+		
+ 12 
+19.06.2025
+[11:11]
+KCAA Fukuoka	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G ｸﾞ
+AT  1500 cc
+AAC
+BEIGE FF 74
+30000 km
+▲ R
+ 450 000¥
+1 095 000¥
+
+sold
+1 139 000¥
+		
+ 20167 
+18.06.2025
+[14:40]
+CAA Chubu	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+FAT  1500 cc
+AAC
+BLACK FF 74
+74000 km
+▲ R
+ 390 000¥
+  0¥
+
+not sold
+ 857 000¥
+		
+ 11094 
+18.06.2025
+[13:28]
+CAA Chubu	
+2021 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+SILVER FF 74
+120000 km
+▲ 4
+ 450 000¥
+ 680 000¥
+
+sold
+ 955 000¥
+		
+ 60352 
+18.06.2025
+[12:41]
+BAYAUC	
+2020 NHP170G
+Hybrid G ｸｴ Low
+DAT  1500 cc
+AC
+WHITE FF 74
+22000 km
+▲ 3.5
+ 600 000¥
+1 775 000¥
+
+sold
+1 547 000¥
+		
+ 8007 
+18.06.2025
+[12:06]
+KCAA Kyoto	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AAC
+BLUE FF 74
+104000 km
+▲ 4
+ 350 000¥
+ 749 000¥
+
+not sold
+ 955 000¥
+		
+ 14 
+18.06.2025
+[10:57]
+KCAA Minami Kyushu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DAT  1500 cc
+AC
+SILVER FF 74
+253000 km
+▲ 3.5
+ 200 000¥
+ 623 000¥
+
+not sold
+ 511 000¥
+		
+ 36129 
+18.06.2025
+[10:46]
+CAA Chubu	
+2020 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+BLACK FF 74
+52000 km
+▲ 4
+ 500 000¥
+1 365 000¥
+
+sold
+1 399 000¥
+		
+ 2303 
+17.06.2025
+[16:04]
+TAA Kinki	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+SILVER FF 74
+64000 km
+▲ 4.5
+ 500 000¥
+1 280 000¥
+
+sold
+1 507 000¥
+	
+ 55 
+17.06.2025
+[15:00]
+ORIX Kobe Nyusatsu	
+2020 NHP170G
+Hybrid FUNBASE G
+AT  1500 cc
+AC
+YELLOW FF 74
+28000 km
+▲ R
+  0¥
+ 930 000¥
+
+sold
+1 139 000¥
+		
+ 40067 
+17.06.2025
+[14:17]
+CAA Tokyo	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base G ｸｴ Low
+IAT  1500 cc
+AAC
+GREEN FF 74
+15000 km
+▲ 3.5
+ 600 000¥
+  0¥
+
+not sold
+1 530 000¥
+		
+ 2047 
+17.06.2025
+[12:25]
+TAA Hiroshima	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+SILVER FF 74
+59000 km
+▲ 4.5
+ 800 000¥
+1 349 000¥
+
+sold
+1 507 000¥
+		
+ 419 
+17.06.2025
+[12:05]
+TAA Kinki	
+2020 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+WHITE FF 74
+98000 km
+▲ 3.5
+ 150 000¥
+ 759 000¥
+
+sold
+ 873 000¥
+		
+ 72004 
+17.06.2025
+[10:01]
+TAA Shikoku	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+YELLOW-BLACK FF 74
+33000 km
+▲ 4
+1 080 000¥
+1 566 000¥
+
+sold
+1 550 000¥
+		
+ 335 
+16.06.2025
+[14:49]
+JU Tokyo	
+2021 NHP170G
+Hybrid X
+AT  1500 cc
+AC
+WHITE FF 74
+129000 km
+▲ 4
+ 230 000¥
+ 698 000¥
+
+not sold
+ 820 000¥
+		
+ 25284 
+16.06.2025
+[14:31]
+AUCNET	
+2020 NHP170G
+ﾌｧﾝ Base G
+IAT  1500 cc
+AC
+SILVER FF 74
+146000 km
+▲ 4
+  0¥
+ 405 000¥
+
+not sold
+ 683 000¥
+		
+ 201 
+16.06.2025
+[14:10]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+AT  1500 cc
+AC
+SILVER FF 74
+128000 km
+▲ R
+ 180 000¥
+ 321 000¥
+
+not sold
+ 540 000¥
+		
+ 13010 
+16.06.2025
+[12:10]
+AUCNET	
+2020 NHP170G
+G ｸｴ Low
+IAT  1500 cc
+AC
+BROWN FF 74
+34000 km
+▲ 3
+ 600 000¥
+1 175 000¥
+
+sold
+1 201 000¥
+		
+ 179 
+16.06.2025
+[11:24]
+JU Tokyo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base X
+AT  1500 cc
+AC
+YELLOW FF 74
+135000 km
+▲ R
+ 30 000¥
+ 300 000¥
+
+not sold
+ 540 000¥
+		
+ 5818 
+16.06.2025
+AUCNET	
+2020 NHP170G
+GKERO HYBRID
+IAT  1500 cc
+AC
+FF 74
+34000 km
+▲ 3
+ 600 000¥
+  0¥
+
+removed
+1 201 000¥
+		
+ 2023 
+16.06.2025
+MOTA Kuruma Kaitori Plus	
+2021 NHP170G
+ﾌｧﾝ Base G ｸﾞﾗﾝﾊﾟ
+IAT  1500 cc
+AC
+BEIGE FF 74
+89000 km
+▲ 4
+ 250 000¥
+1 020 000¥
+
+sold by nego
+1 201 000¥
+		
+ 6176 
+14.06.2025
+[15:59]
+JU Gifu	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base Gｸｴ Low TSS
+IAT  1500 cc
+AAC
+TEA FF 74
+112000 km
+▲ 4
+ 80 000¥
+ 655 000¥
+
+not sold
+ 787 000¥
+		
+ 7095 
+14.06.2025
+[15:18]
+JU Gifu	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base Gｸｴ Low TSS
+DAT  1500 cc
+AAC
+BLACK FF 74
+56000 km
+▲ 4.5
+ 800 000¥
+1 430 000¥
+
+not sold
+1 587 000¥
+		
+ 12558 
+14.06.2025
+[14:05]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+SILVER FF 74
+45000 km
+▲ 3
+ 600 000¥
+ 768 000¥
+
+not sold
+1 201 000¥
+		
+ 12520 
+14.06.2025
+[13:48]
+TAA Yokohama	
+2021 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+WHITE FF 74
+25000 km
+▲ 4.5
+1 000 000¥
+1 813 000¥
+
+sold
+1 782 000¥
+		
+ 70044 
+14.06.2025
+[12:38]
+ARAI Oyama VT	
+2021 NHP170G
+Hybrid ﾌｧﾝ Base X
+IAT  1500 cc
+AC
+GREY FF 74
+94000 km
+▲ RA
+ 200 000¥
+ 535 000¥
+
+not sold
+1 076 000¥
+		
+ 50064 
+14.06.2025
+[12:14]
+TAA Hyogo	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+IAT  1500 cc
+AAC
+SILVER FF 74
+189000 km
+▲ 3.5
+ 50 000¥
+ 455 000¥
+
+not sold
+ 511 000¥
+		
+ 82 
+14.06.2025
+[11:42]
+TAA Yokohama	
+2021 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+WHITE FF 74
+127000 km
+▲ 3.5
+ 50 000¥
+ 632 000¥
+
+sold
+ 652 000¥
+		
+ 47 
+14.06.2025
+[11:28]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G
+IAT  1500 cc
+AAC
+BLACK FF 74
+108000 km
+▲ 3.5
+ 100 000¥
+ 916 000¥
+
+sold
+ 867 000¥
+
+ 8440 
+14.06.2025
+[11:24]
+JU Gifu	
+2020 NHP170G
+Hybrid Gｸｴ Low
+IAT  1500 cc
+AAC
+RED FF 74
+77000 km
+▲ 4
+ 500 000¥
+1 190 000¥
+
+not sold
+1 117 000¥
+		
+ 271 
+14.06.2025
+[11:18]
+TAA Hyogo	
+2021 NHP170G
+HVﾌｧﾝ Base G Safety -ED
+IAT  1500 cc
+AAC
+WHITE FF 74
+65000 km
+▲ 3.5
+ 150 000¥
+ 852 000¥
+
+sold
+1 274 000¥
+		
+ 72035 
+14.06.2025
+[10:22]
+TAA Yokohama	
+2020 NHP170G
+Hybrid G ｸｴ Low
+IAT  1500 cc
+AAC
+RED FF 74
+29000 km
+▲ 3.5
+ 100 000¥
+1 519 000¥
+
+sold
+1 442 000¥
+		
+ 3042 
+13.06.2025
+[17:04]
+JU Miyagi	
+2020 NHP170G
+AT  1500 cc
+AC
+WHITE FF 74
+112000 km
+▲  
+  0¥
+ 153 000¥
+
+not sold
+		
+ 2304 
+13.06.2025
+[15:19]
+JU Miyagi	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G Safety Edition
+IA  1496 cc
+AAC
+WHITE FF 74
+73000 km
+▲ 3.5
+ 90 000¥
+ 639 000¥
+
+not sold
+1 190 000¥
+		
+ 1198 
+13.06.2025
+[15:13]
+JU Chiba	
+2020 NHP170G
+Hybrid X
+IAT  1500 cc
+AAC
+SILVER FF 74
+247000 km
+▲ 3.5
+ 50 000¥
+ 419 000¥
+
+sold
+ 511 000¥
+		
+ 4382 
+13.06.2025
+[15:04]
+LAA Okayama	
+2020 NHP170G
+Hybrid ﾌｧﾝ Base G
+DA  1500 cc
+AAC
+SILVER FF 74
+128000 km
+▲ 4
+ 180 000¥
+ 477 000¥
+
+not sold
+ 683 000¥
+		
+ 2250 
+13.06.2025
+[15:02]
+JU Miyagi	
+2020 NHP170G
+Hybrid G Safety Edition
+AT  1500 cc
+AAC
+SILVER FF 74
+44000 km
+▲ 4
+ 980 000¥
+1 421 000¥
+
+not sold
+1 550 000¥
+		
+ 2055 
+13.06.2025
+[14:05]
+JU Miyagi	
+2021 NHP170G
+Hybrid G Safety Edition
+AT  1500 cc
+AC
+SILVER FF 74
+25000 km
+▲ 4
+ 800 000¥
+1 631 000¥
+
+sold
+1 749 000¥
+		
+ 3518 
+13.06.2025
+[13:07]
+JU Chiba	
+2020 NHP170G
+Hybrid Gｸｴ Low
+IAT  1500 cc
+AAC
+PEARL TWO-TONE FF 74
+22000 km
+▲ 4.5
+  0¥
+  0¥
+
+not sold
+1 707 000¥
+		
+ 148 
+13.06.2025
+[10:43]
+KCAA Yamaguchi	
+2020 NHP170G
+Hybrid G ｸｴ Low
+PAT  1500 cc
+AAC
+BROWN FF 74
+33000 km
+▲ R
+ 480 000¥
+ 880 000¥
+
+sold by nego
+1 139 000¥
+		
+ 1035 
+13.06.2025
+MOTA Kuruma Kaitori Plus	
+2021 NHP170G
+ﾌｧﾝ Base G ｸﾞﾗﾝﾊﾟ
+IAT  1500 cc
+AC
+BEIGE FF 74
+89000 km
+▲ 4
+ 250 000¥
+1 060 000¥
+
+not sold
+1 201 000¥
